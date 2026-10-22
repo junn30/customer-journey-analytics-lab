@@ -1,0 +1,1501 @@
+customer_id,signup_date,acquisition_channel,device_type,region,customer_type,viewed_product,started_checkout,completed_purchase,revenue,returning_user,support_contacted
+1,2025-04-13,Social Media,Mobile,North,New,0,0,0,0,0,0
+2,2025-06-29,Social Media,Mobile,West,New,0,0,0,0,0,0
+3,2025-04-03,Organic,Mobile,West,New,1,0,0,0,0,1
+4,2025-01-15,Referral,Desktop,West,Returning,1,0,0,0,1,0
+5,2025-04-17,Organic,Mobile,North,New,1,1,0,0,0,0
+6,2025-03-13,Organic,Mobile,North,New,0,0,0,0,0,0
+7,2025-01-21,Paid Search,Mobile,South,New,1,0,0,0,0,0
+8,2025-04-13,Organic,Mobile,North,Returning,1,1,0,0,1,0
+9,2025-05-02,Referral,Mobile,North,Returning,1,0,0,0,1,1
+10,2025-03-16,Email,Desktop,South,New,0,0,0,0,0,0
+11,2025-03-29,Organic,Mobile,West,New,1,0,0,0,0,0
+12,2025-04-27,Social Media,Desktop,South,New,1,0,0,0,0,1
+13,2025-04-10,Referral,Desktop,East,New,1,0,0,0,0,0
+14,2025-04-14,Email,Mobile,East,New,1,0,0,0,0,0
+15,2025-06-01,Social Media,Desktop,South,Returning,0,0,0,0,1,0
+16,2025-05-11,Referral,Mobile,East,Returning,1,0,0,0,1,0
+17,2025-05-30,Referral,Desktop,North,New,1,1,1,3734,0,0
+18,2025-02-22,Social Media,Mobile,North,Returning,1,1,0,0,1,1
+19,2025-01-02,Organic,Mobile,West,Returning,0,0,0,0,1,1
+20,2025-03-29,Paid Search,Mobile,North,New,1,0,0,0,0,0
+21,2025-06-07,Email,Mobile,West,New,1,0,0,0,0,0
+22,2025-02-07,Organic,Mobile,North,Returning,1,1,0,0,1,0
+23,2025-05-10,Email,Mobile,East,New,1,1,0,0,0,0
+24,2025-01-21,Organic,Mobile,South,Returning,0,0,0,0,1,0
+25,2025-06-10,Organic,Tablet,North,Returning,1,0,0,0,1,0
+26,2025-02-27,Paid Search,Desktop,North,New,1,1,0,0,0,1
+27,2025-01-22,Organic,Mobile,East,Returning,1,0,0,0,1,1
+28,2025-03-30,Referral,Mobile,West,Returning,1,0,0,0,1,0
+29,2025-02-18,Email,Desktop,West,New,1,0,0,0,0,0
+30,2025-02-28,Email,Desktop,South,New,1,0,0,0,0,0
+31,2025-06-19,Social Media,Desktop,West,New,1,1,1,5860,0,1
+32,2025-01-15,Organic,Mobile,East,New,1,1,0,0,0,0
+33,2025-06-24,Paid Search,Mobile,West,New,1,1,0,0,0,0
+34,2025-02-20,Social Media,Mobile,South,New,0,0,0,0,0,0
+35,2025-04-18,Paid Search,Mobile,East,New,1,1,0,0,0,1
+36,2025-02-24,Organic,Desktop,West,New,1,1,0,0,0,1
+37,2025-03-05,Paid Search,Desktop,South,Returning,1,0,0,0,1,0
+38,2025-05-11,Paid Search,Mobile,West,Returning,1,1,1,7356,1,1
+39,2025-02-20,Referral,Desktop,East,Returning,1,0,0,0,1,0
+40,2025-05-15,Email,Mobile,North,New,1,0,0,0,0,0
+41,2025-01-21,Paid Search,Mobile,North,Returning,1,0,0,0,1,1
+42,2025-03-14,Social Media,Mobile,South,Returning,0,0,0,0,1,1
+43,2025-06-16,Social Media,Tablet,East,New,1,1,0,0,0,0
+44,2025-01-18,Organic,Mobile,West,New,0,0,0,0,0,0
+45,2025-05-12,Email,Tablet,North,New,1,0,0,0,0,1
+46,2025-03-30,Email,Desktop,West,Returning,1,1,1,5862,1,1
+47,2025-03-01,Paid Search,Mobile,West,New,1,1,1,5193,0,1
+48,2025-01-14,Paid Search,Mobile,North,New,0,0,0,0,0,0
+49,2025-01-09,Organic,Desktop,West,New,1,1,1,5768,0,1
+50,2025-03-31,Paid Search,Mobile,West,New,0,0,0,0,0,1
+51,2025-02-22,Organic,Tablet,West,New,1,1,1,925,0,0
+52,2025-05-10,Email,Tablet,West,New,1,1,1,3544,0,1
+53,2025-03-25,Organic,Mobile,West,New,1,1,1,6729,0,0
+54,2025-04-02,Paid Search,Mobile,East,Returning,1,1,0,0,1,0
+55,2025-04-21,Referral,Tablet,South,New,0,0,0,0,0,0
+56,2025-06-21,Social Media,Desktop,West,New,1,1,0,0,0,0
+57,2025-01-08,Organic,Mobile,East,New,0,0,0,0,0,0
+58,2025-06-24,Organic,Mobile,East,New,1,0,0,0,0,1
+59,2025-02-04,Organic,Mobile,South,New,0,0,0,0,0,0
+60,2025-03-22,Social Media,Tablet,West,New,1,1,0,0,0,0
+61,2025-06-13,Organic,Desktop,North,Returning,1,0,0,0,1,1
+62,2025-02-19,Paid Search,Desktop,West,Returning,1,1,0,0,1,0
+63,2025-04-14,Referral,Mobile,South,Returning,1,1,0,0,1,0
+64,2025-05-12,Organic,Mobile,North,New,1,1,0,0,0,0
+65,2025-01-02,Email,Desktop,South,New,0,0,0,0,0,0
+66,2025-05-14,Referral,Mobile,North,Returning,1,1,1,8602,1,0
+67,2025-02-23,Organic,Mobile,East,New,0,0,0,0,0,1
+68,2025-04-16,Email,Mobile,West,New,1,1,1,4883,0,0
+69,2025-01-04,Paid Search,Desktop,West,New,1,1,0,0,0,1
+70,2025-02-23,Referral,Tablet,North,New,1,0,0,0,0,0
+71,2025-05-26,Social Media,Mobile,North,New,1,0,0,0,0,0
+72,2025-02-13,Social Media,Mobile,West,Returning,1,0,0,0,1,0
+73,2025-06-11,Paid Search,Desktop,West,New,1,1,1,2525,0,0
+74,2025-01-14,Email,Tablet,South,New,0,0,0,0,0,0
+75,2025-04-05,Social Media,Mobile,South,Returning,1,1,0,0,1,0
+76,2025-02-17,Paid Search,Mobile,South,Returning,1,0,0,0,1,0
+77,2025-01-15,Email,Mobile,West,New,1,1,1,3390,0,0
+78,2025-02-09,Organic,Desktop,East,New,1,1,1,3257,0,0
+79,2025-03-23,Organic,Mobile,South,Returning,0,0,0,0,1,0
+80,2025-04-21,Organic,Mobile,South,Returning,1,1,0,0,1,0
+81,2025-02-22,Paid Search,Desktop,West,New,1,1,0,0,0,1
+82,2025-01-24,Organic,Desktop,North,Returning,1,1,0,0,1,0
+83,2025-06-03,Referral,Mobile,South,New,1,1,0,0,0,0
+84,2025-05-04,Organic,Desktop,East,New,1,0,0,0,0,0
+85,2025-02-10,Social Media,Mobile,North,New,1,0,0,0,0,0
+86,2025-06-06,Organic,Mobile,North,New,1,1,0,0,0,1
+87,2025-01-15,Email,Mobile,West,Returning,1,1,0,0,1,0
+88,2025-02-14,Referral,Desktop,West,New,1,0,0,0,0,0
+89,2025-03-06,Paid Search,Mobile,West,New,1,1,0,0,0,1
+90,2025-03-30,Email,Desktop,West,New,1,1,0,0,0,0
+91,2025-03-12,Organic,Desktop,East,New,0,0,0,0,0,0
+92,2025-01-09,Email,Desktop,West,New,1,0,0,0,0,0
+93,2025-03-29,Organic,Desktop,South,New,1,1,0,0,0,0
+94,2025-05-09,Referral,Desktop,East,New,1,1,0,0,0,1
+95,2025-05-16,Organic,Mobile,West,Returning,1,1,0,0,1,1
+96,2025-03-04,Social Media,Mobile,North,New,1,0,0,0,0,0
+97,2025-05-19,Email,Tablet,South,New,0,0,0,0,0,1
+98,2025-03-22,Organic,Mobile,South,Returning,1,1,0,0,1,0
+99,2025-05-16,Organic,Desktop,North,New,1,0,0,0,0,0
+100,2025-06-12,Organic,Tablet,North,New,1,0,0,0,0,1
+101,2025-06-12,Paid Search,Mobile,West,Returning,1,0,0,0,1,0
+102,2025-02-02,Social Media,Desktop,West,New,1,1,0,0,0,0
+103,2025-05-03,Organic,Mobile,South,New,1,1,0,0,0,0
+104,2025-01-05,Paid Search,Mobile,North,New,1,0,0,0,0,0
+105,2025-02-10,Organic,Mobile,North,New,0,0,0,0,0,0
+106,2025-01-28,Email,Mobile,West,Returning,1,1,0,0,1,0
+107,2025-05-15,Organic,Desktop,South,New,1,1,1,1327,0,0
+108,2025-03-13,Organic,Desktop,South,Returning,1,0,0,0,1,0
+109,2025-01-12,Organic,Desktop,South,Returning,1,0,0,0,1,1
+110,2025-06-11,Paid Search,Mobile,South,New,1,1,0,0,0,1
+111,2025-02-02,Email,Mobile,South,New,1,1,0,0,0,0
+112,2025-02-17,Paid Search,Desktop,West,New,0,0,0,0,0,1
+113,2025-05-31,Organic,Mobile,East,New,1,1,0,0,0,0
+114,2025-03-03,Email,Tablet,East,New,1,0,0,0,0,0
+115,2025-02-06,Email,Desktop,South,Returning,1,1,0,0,1,0
+116,2025-04-09,Organic,Desktop,West,Returning,1,0,0,0,1,0
+117,2025-06-21,Email,Tablet,East,New,0,0,0,0,0,0
+118,2025-04-14,Referral,Mobile,North,New,0,0,0,0,0,0
+119,2025-02-04,Organic,Desktop,East,Returning,1,1,0,0,1,0
+120,2025-04-11,Email,Mobile,South,New,1,1,0,0,0,0
+121,2025-06-24,Social Media,Tablet,West,Returning,0,0,0,0,1,1
+122,2025-05-11,Paid Search,Mobile,South,New,1,1,0,0,0,0
+123,2025-01-01,Organic,Desktop,West,New,1,0,0,0,0,1
+124,2025-01-05,Organic,Desktop,North,Returning,1,0,0,0,1,1
+125,2025-05-22,Email,Mobile,West,New,1,0,0,0,0,0
+126,2025-04-13,Referral,Mobile,East,Returning,1,0,0,0,1,0
+127,2025-01-27,Social Media,Desktop,West,Returning,1,0,0,0,1,0
+128,2025-05-17,Paid Search,Mobile,South,New,1,1,1,7926,0,1
+129,2025-01-15,Social Media,Mobile,South,New,1,0,0,0,0,0
+130,2025-03-31,Social Media,Mobile,West,Returning,1,1,1,2587,1,0
+131,2025-02-11,Paid Search,Mobile,North,Returning,1,0,0,0,1,0
+132,2025-05-04,Organic,Desktop,North,New,1,1,0,0,0,0
+133,2025-06-28,Email,Mobile,East,Returning,0,0,0,0,1,1
+134,2025-03-04,Paid Search,Mobile,East,New,1,1,0,0,0,0
+135,2025-04-06,Email,Mobile,South,New,1,1,1,2556,0,1
+136,2025-02-21,Organic,Mobile,South,Returning,1,1,1,9224,1,0
+137,2025-04-06,Organic,Mobile,South,New,1,1,1,5584,0,0
+138,2025-05-12,Organic,Mobile,West,Returning,1,1,1,2542,1,1
+139,2025-05-31,Paid Search,Mobile,East,New,1,0,0,0,0,0
+140,2025-05-23,Referral,Mobile,West,New,1,1,0,0,0,1
+141,2025-06-20,Organic,Desktop,West,New,1,1,1,877,0,0
+142,2025-01-29,Email,Mobile,South,New,1,1,1,4988,0,0
+143,2025-02-05,Paid Search,Desktop,North,New,0,0,0,0,0,0
+144,2025-01-13,Email,Mobile,North,New,1,1,1,3807,0,1
+145,2025-06-09,Organic,Mobile,South,New,1,1,1,3096,0,1
+146,2025-03-12,Email,Desktop,West,New,0,0,0,0,0,0
+147,2025-03-27,Email,Mobile,East,New,0,0,0,0,0,0
+148,2025-01-28,Organic,Desktop,South,Returning,0,0,0,0,1,0
+149,2025-03-07,Organic,Desktop,South,New,0,0,0,0,0,0
+150,2025-06-19,Email,Mobile,East,New,1,1,0,0,0,0
+151,2025-02-14,Referral,Desktop,East,New,1,1,0,0,0,0
+152,2025-03-03,Organic,Desktop,North,New,1,1,0,0,0,1
+153,2025-05-14,Social Media,Mobile,West,New,1,1,1,8138,0,0
+154,2025-01-28,Referral,Mobile,East,New,1,1,1,3038,0,1
+155,2025-01-28,Email,Mobile,North,New,1,1,1,1361,0,0
+156,2025-04-18,Referral,Desktop,West,Returning,1,1,0,0,1,0
+157,2025-02-13,Email,Desktop,North,Returning,1,1,1,4026,1,1
+158,2025-03-25,Paid Search,Tablet,West,New,1,0,0,0,0,0
+159,2025-01-30,Paid Search,Desktop,West,New,1,1,0,0,0,1
+160,2025-03-16,Paid Search,Mobile,West,New,1,0,0,0,0,1
+161,2025-05-08,Social Media,Mobile,West,New,0,0,0,0,0,0
+162,2025-04-02,Social Media,Desktop,South,New,1,1,0,0,0,0
+163,2025-05-09,Organic,Mobile,West,New,1,1,1,3978,0,0
+164,2025-05-01,Email,Tablet,East,New,1,1,0,0,0,0
+165,2025-01-27,Social Media,Mobile,West,New,1,0,0,0,0,0
+166,2025-05-01,Social Media,Mobile,West,New,0,0,0,0,0,0
+167,2025-04-26,Paid Search,Desktop,West,New,1,0,0,0,0,0
+168,2025-01-03,Paid Search,Desktop,West,New,0,0,0,0,0,0
+169,2025-04-13,Organic,Mobile,South,New,1,0,0,0,0,0
+170,2025-06-04,Organic,Desktop,West,New,1,0,0,0,0,0
+171,2025-05-17,Organic,Mobile,East,New,1,0,0,0,0,0
+172,2025-03-03,Organic,Desktop,West,New,0,0,0,0,0,0
+173,2025-06-14,Paid Search,Desktop,East,New,1,0,0,0,0,0
+174,2025-02-20,Paid Search,Desktop,South,New,1,1,1,9258,0,0
+175,2025-06-21,Organic,Desktop,South,New,1,0,0,0,0,0
+176,2025-06-01,Email,Mobile,East,New,0,0,0,0,0,0
+177,2025-02-28,Organic,Mobile,West,New,1,1,1,8173,0,1
+178,2025-04-28,Referral,Tablet,South,New,1,1,0,0,0,0
+179,2025-06-09,Referral,Mobile,East,New,0,0,0,0,0,0
+180,2025-04-06,Organic,Tablet,South,New,1,1,1,7239,0,1
+181,2025-06-29,Paid Search,Mobile,West,Returning,1,1,0,0,1,1
+182,2025-04-23,Organic,Desktop,South,New,1,0,0,0,0,0
+183,2025-03-03,Social Media,Desktop,North,New,1,1,1,5800,0,0
+184,2025-02-21,Social Media,Tablet,North,Returning,1,1,1,5554,1,0
+185,2025-01-12,Organic,Mobile,North,Returning,1,0,0,0,1,0
+186,2025-02-08,Social Media,Desktop,South,New,1,0,0,0,0,1
+187,2025-05-10,Organic,Mobile,North,New,1,0,0,0,0,0
+188,2025-05-11,Organic,Mobile,North,New,1,1,0,0,0,1
+189,2025-04-23,Social Media,Desktop,West,New,1,0,0,0,0,0
+190,2025-04-11,Paid Search,Desktop,West,New,1,1,0,0,0,1
+191,2025-04-23,Social Media,Tablet,South,New,1,0,0,0,0,0
+192,2025-03-22,Paid Search,Mobile,West,New,1,1,0,0,0,0
+193,2025-04-23,Referral,Mobile,North,Returning,1,0,0,0,1,0
+194,2025-01-02,Organic,Mobile,East,Returning,1,0,0,0,1,0
+195,2025-05-10,Paid Search,Mobile,East,New,1,1,0,0,0,0
+196,2025-02-23,Social Media,Mobile,South,New,0,0,0,0,0,1
+197,2025-03-28,Paid Search,Desktop,South,New,0,0,0,0,0,0
+198,2025-05-09,Referral,Mobile,South,Returning,1,0,0,0,1,1
+199,2025-05-27,Social Media,Tablet,South,New,1,1,0,0,0,0
+200,2025-05-06,Social Media,Tablet,West,New,1,1,1,6452,0,0
+201,2025-05-10,Email,Desktop,North,New,0,0,0,0,0,1
+202,2025-02-22,Referral,Tablet,North,New,0,0,0,0,0,0
+203,2025-06-21,Referral,Desktop,North,New,0,0,0,0,0,0
+204,2025-06-09,Social Media,Mobile,South,Returning,0,0,0,0,1,0
+205,2025-06-09,Social Media,Mobile,East,New,0,0,0,0,0,0
+206,2025-03-09,Organic,Mobile,North,New,1,0,0,0,0,1
+207,2025-05-03,Organic,Mobile,West,New,1,0,0,0,0,0
+208,2025-05-25,Social Media,Desktop,South,New,1,0,0,0,0,0
+209,2025-02-07,Organic,Mobile,North,Returning,1,1,1,804,1,1
+210,2025-01-24,Paid Search,Desktop,East,Returning,1,0,0,0,1,0
+211,2025-03-10,Organic,Desktop,North,Returning,0,0,0,0,1,0
+212,2025-04-26,Paid Search,Mobile,East,Returning,0,0,0,0,1,1
+213,2025-04-08,Email,Tablet,East,New,1,0,0,0,0,0
+214,2025-05-19,Referral,Mobile,North,New,1,0,0,0,0,1
+215,2025-05-24,Organic,Mobile,North,New,1,1,1,1212,0,0
+216,2025-04-07,Paid Search,Desktop,South,Returning,1,0,0,0,1,1
+217,2025-05-04,Email,Mobile,North,New,1,0,0,0,0,1
+218,2025-03-11,Organic,Desktop,North,New,1,0,0,0,0,0
+219,2025-04-03,Email,Mobile,South,Returning,1,0,0,0,1,0
+220,2025-01-03,Paid Search,Mobile,South,New,1,0,0,0,0,0
+221,2025-05-28,Paid Search,Tablet,East,New,1,1,1,2272,0,0
+222,2025-06-13,Referral,Mobile,East,New,1,1,1,1574,0,0
+223,2025-05-27,Organic,Mobile,East,New,0,0,0,0,0,0
+224,2025-03-31,Social Media,Mobile,North,New,1,0,0,0,0,0
+225,2025-05-27,Email,Tablet,North,Returning,1,0,0,0,1,1
+226,2025-05-28,Organic,Mobile,West,New,1,0,0,0,0,0
+227,2025-04-06,Social Media,Mobile,East,Returning,1,1,0,0,1,0
+228,2025-02-21,Referral,Mobile,West,New,1,1,0,0,0,0
+229,2025-06-10,Organic,Mobile,South,New,1,0,0,0,0,0
+230,2025-06-17,Email,Desktop,East,Returning,1,1,1,6941,1,0
+231,2025-05-08,Social Media,Desktop,East,New,1,1,1,9185,0,0
+232,2025-02-08,Social Media,Mobile,South,New,1,0,0,0,0,1
+233,2025-03-23,Social Media,Desktop,South,Returning,1,0,0,0,1,1
+234,2025-04-14,Organic,Mobile,East,New,1,1,0,0,0,0
+235,2025-05-09,Referral,Tablet,North,New,0,0,0,0,0,0
+236,2025-01-11,Referral,Tablet,South,New,1,0,0,0,0,0
+237,2025-06-27,Social Media,Mobile,West,New,1,0,0,0,0,0
+238,2025-05-31,Email,Desktop,West,New,1,1,0,0,0,0
+239,2025-06-08,Social Media,Desktop,South,New,1,0,0,0,0,0
+240,2025-02-11,Paid Search,Mobile,South,Returning,0,0,0,0,1,0
+241,2025-04-09,Social Media,Mobile,North,Returning,1,1,0,0,1,1
+242,2025-01-07,Social Media,Mobile,East,New,1,0,0,0,0,0
+243,2025-05-24,Social Media,Desktop,South,New,1,0,0,0,0,0
+244,2025-03-31,Email,Tablet,West,New,0,0,0,0,0,0
+245,2025-04-22,Paid Search,Desktop,South,New,1,0,0,0,0,1
+246,2025-03-01,Organic,Desktop,South,New,1,0,0,0,0,1
+247,2025-04-23,Organic,Desktop,East,Returning,1,1,0,0,1,0
+248,2025-01-02,Paid Search,Desktop,West,Returning,0,0,0,0,1,0
+249,2025-05-09,Social Media,Desktop,South,New,1,1,1,4915,0,0
+250,2025-02-17,Social Media,Mobile,South,New,1,0,0,0,0,0
+251,2025-05-20,Social Media,Mobile,West,New,1,1,1,6972,0,0
+252,2025-02-06,Paid Search,Desktop,North,New,1,0,0,0,0,0
+253,2025-06-09,Social Media,Mobile,West,New,1,1,0,0,0,0
+254,2025-01-09,Paid Search,Desktop,North,Returning,1,1,1,5975,1,0
+255,2025-04-09,Paid Search,Mobile,West,New,1,0,0,0,0,0
+256,2025-05-27,Social Media,Mobile,East,Returning,1,0,0,0,1,1
+257,2025-02-17,Email,Desktop,South,New,1,0,0,0,0,0
+258,2025-05-11,Paid Search,Mobile,West,New,1,1,0,0,0,0
+259,2025-05-28,Organic,Mobile,North,New,0,0,0,0,0,0
+260,2025-06-01,Organic,Mobile,North,New,1,1,0,0,0,0
+261,2025-02-23,Organic,Desktop,East,New,1,0,0,0,0,0
+262,2025-04-30,Social Media,Mobile,South,New,0,0,0,0,0,0
+263,2025-06-10,Paid Search,Tablet,East,Returning,0,0,0,0,1,0
+264,2025-06-01,Paid Search,Mobile,North,New,0,0,0,0,0,0
+265,2025-04-26,Paid Search,Tablet,North,New,1,1,0,0,0,0
+266,2025-03-16,Organic,Tablet,North,Returning,1,0,0,0,1,0
+267,2025-04-23,Paid Search,Mobile,North,Returning,1,0,0,0,1,0
+268,2025-06-13,Organic,Mobile,South,Returning,0,0,0,0,1,0
+269,2025-06-15,Paid Search,Mobile,West,New,1,1,0,0,0,0
+270,2025-04-14,Organic,Desktop,West,Returning,0,0,0,0,1,0
+271,2025-03-25,Email,Mobile,West,New,1,0,0,0,0,0
+272,2025-04-22,Organic,Mobile,North,New,1,1,1,8761,0,0
+273,2025-04-09,Referral,Mobile,South,New,1,0,0,0,0,1
+274,2025-06-02,Paid Search,Mobile,North,New,1,0,0,0,0,1
+275,2025-04-03,Email,Mobile,South,New,0,0,0,0,0,0
+276,2025-05-26,Social Media,Desktop,East,New,0,0,0,0,0,1
+277,2025-05-08,Social Media,Tablet,North,New,1,1,0,0,0,0
+278,2025-04-20,Email,Mobile,North,New,1,1,0,0,0,1
+279,2025-03-23,Paid Search,Mobile,West,New,1,1,0,0,0,0
+280,2025-02-23,Paid Search,Mobile,South,Returning,1,0,0,0,1,0
+281,2025-06-12,Paid Search,Desktop,South,Returning,1,1,0,0,1,0
+282,2025-06-18,Social Media,Tablet,North,New,0,0,0,0,0,0
+283,2025-06-10,Organic,Desktop,North,Returning,0,0,0,0,1,0
+284,2025-03-09,Paid Search,Tablet,West,New,1,1,0,0,0,1
+285,2025-02-02,Social Media,Mobile,North,New,0,0,0,0,0,0
+286,2025-05-22,Social Media,Desktop,South,New,1,1,1,3683,0,0
+287,2025-01-21,Email,Desktop,North,New,0,0,0,0,0,1
+288,2025-02-17,Social Media,Mobile,South,Returning,1,1,1,8803,1,0
+289,2025-05-28,Referral,Tablet,North,New,1,0,0,0,0,0
+290,2025-05-08,Organic,Mobile,West,New,1,1,1,7240,0,0
+291,2025-05-16,Paid Search,Desktop,West,New,1,0,0,0,0,0
+292,2025-05-15,Paid Search,Mobile,West,New,1,1,0,0,0,0
+293,2025-05-25,Paid Search,Mobile,South,Returning,1,1,1,2637,1,0
+294,2025-05-08,Email,Desktop,West,Returning,0,0,0,0,1,0
+295,2025-02-02,Organic,Mobile,East,New,1,1,0,0,0,0
+296,2025-06-25,Email,Mobile,South,Returning,0,0,0,0,1,1
+297,2025-04-25,Paid Search,Mobile,East,New,1,0,0,0,0,0
+298,2025-04-29,Social Media,Desktop,North,Returning,1,1,0,0,1,0
+299,2025-01-22,Social Media,Mobile,North,New,0,0,0,0,0,0
+300,2025-06-07,Paid Search,Mobile,West,New,1,1,0,0,0,0
+301,2025-02-07,Paid Search,Tablet,North,New,1,1,1,7649,0,0
+302,2025-04-19,Paid Search,Desktop,East,New,1,0,0,0,0,0
+303,2025-02-20,Organic,Mobile,South,New,1,0,0,0,0,0
+304,2025-01-08,Paid Search,Desktop,West,New,1,1,0,0,0,0
+305,2025-01-27,Organic,Desktop,West,New,1,1,0,0,0,0
+306,2025-01-27,Paid Search,Desktop,West,Returning,0,0,0,0,1,0
+307,2025-01-21,Social Media,Mobile,South,New,1,1,0,0,0,0
+308,2025-01-30,Social Media,Mobile,North,New,1,1,0,0,0,0
+309,2025-04-07,Social Media,Mobile,South,New,1,0,0,0,0,0
+310,2025-01-28,Organic,Mobile,North,Returning,1,1,0,0,1,0
+311,2025-04-21,Social Media,Mobile,North,New,1,1,1,8324,0,1
+312,2025-03-02,Paid Search,Mobile,East,Returning,1,1,1,2137,1,0
+313,2025-02-17,Paid Search,Desktop,East,Returning,1,1,0,0,1,0
+314,2025-05-27,Email,Mobile,West,New,1,1,0,0,0,1
+315,2025-01-04,Organic,Mobile,North,New,1,0,0,0,0,0
+316,2025-02-04,Social Media,Desktop,South,New,1,0,0,0,0,0
+317,2025-02-18,Social Media,Mobile,North,New,1,0,0,0,0,0
+318,2025-01-17,Paid Search,Mobile,West,Returning,0,0,0,0,1,0
+319,2025-06-21,Organic,Desktop,West,Returning,1,0,0,0,1,0
+320,2025-06-07,Organic,Mobile,West,New,1,0,0,0,0,0
+321,2025-02-15,Email,Desktop,West,New,0,0,0,0,0,0
+322,2025-04-27,Paid Search,Desktop,East,Returning,0,0,0,0,1,0
+323,2025-01-06,Paid Search,Mobile,South,New,1,1,0,0,0,1
+324,2025-04-09,Paid Search,Desktop,South,New,1,0,0,0,0,0
+325,2025-05-04,Social Media,Mobile,East,New,1,1,1,7021,0,1
+326,2025-02-06,Organic,Mobile,South,New,1,1,0,0,0,1
+327,2025-01-24,Paid Search,Mobile,South,Returning,0,0,0,0,1,1
+328,2025-04-03,Social Media,Mobile,West,New,0,0,0,0,0,1
+329,2025-02-15,Referral,Tablet,West,New,1,1,1,3739,0,0
+330,2025-06-30,Organic,Mobile,West,Returning,1,0,0,0,1,0
+331,2025-04-05,Paid Search,Mobile,West,New,1,0,0,0,0,0
+332,2025-04-09,Paid Search,Mobile,East,Returning,0,0,0,0,1,0
+333,2025-04-26,Social Media,Mobile,North,New,1,0,0,0,0,1
+334,2025-06-09,Paid Search,Mobile,North,New,1,0,0,0,0,1
+335,2025-06-10,Paid Search,Mobile,East,Returning,1,1,0,0,1,0
+336,2025-03-08,Email,Desktop,West,New,1,1,1,9585,0,0
+337,2025-05-08,Social Media,Mobile,North,New,1,1,0,0,0,0
+338,2025-01-18,Paid Search,Mobile,West,New,1,0,0,0,0,0
+339,2025-01-25,Email,Mobile,North,New,0,0,0,0,0,0
+340,2025-02-23,Social Media,Mobile,South,New,0,0,0,0,0,0
+341,2025-02-27,Paid Search,Desktop,East,Returning,1,0,0,0,1,1
+342,2025-03-08,Organic,Mobile,North,Returning,1,0,0,0,1,0
+343,2025-04-14,Referral,Mobile,North,Returning,1,1,0,0,1,1
+344,2025-06-23,Organic,Mobile,South,New,1,0,0,0,0,0
+345,2025-01-24,Organic,Desktop,West,New,1,1,0,0,0,1
+346,2025-04-24,Organic,Desktop,South,New,1,0,0,0,0,0
+347,2025-02-01,Social Media,Mobile,East,Returning,1,1,0,0,1,1
+348,2025-06-24,Organic,Desktop,East,New,0,0,0,0,0,0
+349,2025-03-27,Organic,Desktop,North,New,0,0,0,0,0,0
+350,2025-05-31,Organic,Desktop,West,Returning,1,0,0,0,1,0
+351,2025-05-07,Organic,Desktop,North,New,1,1,0,0,0,1
+352,2025-06-04,Social Media,Mobile,West,New,0,0,0,0,0,0
+353,2025-05-10,Social Media,Mobile,East,Returning,1,1,1,3444,1,0
+354,2025-01-17,Paid Search,Mobile,West,Returning,0,0,0,0,1,0
+355,2025-04-14,Paid Search,Mobile,North,New,1,1,0,0,0,0
+356,2025-06-10,Social Media,Tablet,South,New,1,0,0,0,0,1
+357,2025-05-17,Organic,Mobile,North,Returning,1,1,1,3495,1,0
+358,2025-02-12,Paid Search,Mobile,North,New,0,0,0,0,0,0
+359,2025-06-25,Referral,Desktop,East,New,1,0,0,0,0,1
+360,2025-02-08,Social Media,Mobile,North,New,1,0,0,0,0,1
+361,2025-06-19,Organic,Mobile,East,New,1,0,0,0,0,1
+362,2025-01-26,Paid Search,Mobile,North,New,0,0,0,0,0,0
+363,2025-04-09,Paid Search,Mobile,South,New,1,0,0,0,0,0
+364,2025-02-19,Paid Search,Desktop,West,New,1,0,0,0,0,0
+365,2025-06-02,Organic,Mobile,South,New,1,0,0,0,0,0
+366,2025-06-01,Organic,Mobile,East,Returning,1,1,1,8567,1,0
+367,2025-01-13,Organic,Mobile,East,Returning,1,0,0,0,1,0
+368,2025-03-01,Referral,Mobile,West,Returning,0,0,0,0,1,0
+369,2025-05-15,Social Media,Desktop,South,New,0,0,0,0,0,0
+370,2025-02-26,Organic,Mobile,East,New,1,1,1,6082,0,1
+371,2025-02-05,Organic,Mobile,West,New,1,1,1,1676,0,0
+372,2025-06-22,Social Media,Tablet,West,Returning,1,0,0,0,1,0
+373,2025-01-20,Organic,Desktop,South,New,1,0,0,0,0,1
+374,2025-03-06,Organic,Mobile,East,New,1,1,0,0,0,0
+375,2025-01-08,Referral,Mobile,West,Returning,1,0,0,0,1,0
+376,2025-05-24,Organic,Desktop,East,New,1,0,0,0,0,1
+377,2025-05-22,Social Media,Desktop,North,New,1,1,1,7159,0,1
+378,2025-04-25,Referral,Mobile,North,Returning,0,0,0,0,1,0
+379,2025-05-23,Paid Search,Tablet,West,Returning,1,1,0,0,1,0
+380,2025-04-02,Organic,Mobile,South,New,0,0,0,0,0,0
+381,2025-04-08,Organic,Mobile,West,Returning,1,0,0,0,1,0
+382,2025-03-07,Email,Mobile,South,New,1,0,0,0,0,0
+383,2025-02-01,Email,Mobile,East,Returning,1,1,1,7179,1,0
+384,2025-03-27,Email,Desktop,North,New,1,1,0,0,0,0
+385,2025-02-20,Organic,Mobile,North,New,0,0,0,0,0,0
+386,2025-06-02,Email,Mobile,West,New,1,0,0,0,0,0
+387,2025-03-04,Referral,Desktop,West,Returning,1,1,0,0,1,0
+388,2025-05-05,Social Media,Mobile,East,New,1,0,0,0,0,0
+389,2025-05-30,Referral,Mobile,South,New,1,0,0,0,0,0
+390,2025-02-27,Email,Mobile,East,New,1,1,0,0,0,0
+391,2025-02-27,Social Media,Mobile,East,Returning,1,0,0,0,1,0
+392,2025-03-27,Social Media,Mobile,East,New,1,1,0,0,0,0
+393,2025-02-18,Paid Search,Desktop,North,New,0,0,0,0,0,0
+394,2025-06-29,Organic,Mobile,East,New,1,1,0,0,0,0
+395,2025-06-19,Social Media,Mobile,West,New,1,1,1,1240,0,0
+396,2025-03-11,Paid Search,Desktop,West,New,1,1,1,8995,0,0
+397,2025-01-15,Email,Desktop,North,New,1,1,0,0,0,0
+398,2025-02-23,Referral,Mobile,West,New,1,0,0,0,0,0
+399,2025-04-11,Email,Mobile,East,New,1,0,0,0,0,0
+400,2025-01-08,Organic,Mobile,South,Returning,1,1,0,0,1,0
+401,2025-02-22,Organic,Mobile,North,New,1,1,1,767,0,0
+402,2025-03-01,Organic,Mobile,South,New,1,1,1,3274,0,0
+403,2025-04-18,Social Media,Mobile,South,Returning,0,0,0,0,1,1
+404,2025-01-05,Email,Tablet,South,New,1,0,0,0,0,0
+405,2025-04-13,Referral,Mobile,West,Returning,1,0,0,0,1,0
+406,2025-01-06,Paid Search,Desktop,West,New,1,1,1,3959,0,1
+407,2025-04-19,Referral,Mobile,East,New,0,0,0,0,0,1
+408,2025-04-26,Email,Desktop,West,New,1,1,0,0,0,0
+409,2025-04-04,Paid Search,Desktop,South,Returning,0,0,0,0,1,0
+410,2025-02-16,Email,Desktop,North,New,0,0,0,0,0,0
+411,2025-04-09,Paid Search,Mobile,East,New,0,0,0,0,0,0
+412,2025-02-24,Organic,Mobile,North,Returning,1,1,0,0,1,0
+413,2025-06-17,Social Media,Mobile,South,New,0,0,0,0,0,0
+414,2025-02-21,Paid Search,Desktop,North,New,1,1,0,0,0,0
+415,2025-05-24,Social Media,Mobile,North,New,1,0,0,0,0,0
+416,2025-01-13,Social Media,Mobile,West,Returning,1,1,0,0,1,0
+417,2025-04-24,Social Media,Mobile,South,New,1,1,1,5316,0,1
+418,2025-05-04,Paid Search,Mobile,South,New,1,1,1,4243,0,1
+419,2025-04-16,Paid Search,Mobile,North,New,1,1,0,0,0,0
+420,2025-06-07,Social Media,Mobile,East,New,1,1,0,0,0,0
+421,2025-05-27,Paid Search,Tablet,South,Returning,1,1,0,0,1,0
+422,2025-05-25,Paid Search,Desktop,West,Returning,1,1,1,5944,1,0
+423,2025-04-30,Organic,Tablet,South,Returning,0,0,0,0,1,1
+424,2025-03-04,Social Media,Mobile,North,Returning,1,1,1,4685,1,1
+425,2025-01-19,Organic,Desktop,East,New,1,0,0,0,0,0
+426,2025-04-02,Social Media,Desktop,North,New,1,1,0,0,0,0
+427,2025-02-27,Email,Desktop,South,Returning,1,1,1,8511,1,0
+428,2025-03-31,Paid Search,Desktop,South,New,1,0,0,0,0,0
+429,2025-04-27,Paid Search,Mobile,West,New,1,1,1,4174,0,0
+430,2025-03-03,Referral,Desktop,North,Returning,1,0,0,0,1,0
+431,2025-01-23,Email,Mobile,East,New,1,0,0,0,0,0
+432,2025-05-07,Referral,Mobile,North,Returning,1,0,0,0,1,0
+433,2025-05-17,Email,Mobile,South,New,1,1,0,0,0,0
+434,2025-05-20,Organic,Tablet,South,New,1,1,0,0,0,1
+435,2025-05-09,Organic,Desktop,West,New,1,1,1,3246,0,0
+436,2025-02-27,Paid Search,Tablet,North,New,1,1,1,3776,0,0
+437,2025-05-02,Organic,Desktop,North,Returning,1,0,0,0,1,0
+438,2025-01-01,Paid Search,Mobile,South,New,1,0,0,0,0,0
+439,2025-02-03,Paid Search,Mobile,North,New,1,0,0,0,0,0
+440,2025-04-06,Paid Search,Mobile,North,New,0,0,0,0,0,0
+441,2025-05-06,Social Media,Mobile,East,New,1,1,1,1827,0,1
+442,2025-04-28,Social Media,Mobile,North,New,1,1,0,0,0,0
+443,2025-02-17,Paid Search,Mobile,North,Returning,1,1,1,4246,1,0
+444,2025-03-30,Email,Mobile,West,New,1,1,1,6184,0,0
+445,2025-04-27,Paid Search,Tablet,South,Returning,1,0,0,0,1,1
+446,2025-05-09,Email,Mobile,North,Returning,1,1,0,0,1,1
+447,2025-01-16,Organic,Desktop,South,New,1,1,0,0,0,0
+448,2025-03-10,Referral,Desktop,East,New,1,1,1,2936,0,0
+449,2025-01-22,Social Media,Mobile,South,Returning,1,0,0,0,1,0
+450,2025-04-03,Paid Search,Mobile,South,New,1,1,1,8999,0,0
+451,2025-03-17,Organic,Mobile,North,New,1,1,0,0,0,0
+452,2025-06-03,Paid Search,Mobile,East,New,1,0,0,0,0,0
+453,2025-05-24,Organic,Desktop,South,Returning,1,1,0,0,1,0
+454,2025-06-28,Organic,Mobile,East,Returning,1,0,0,0,1,0
+455,2025-03-27,Social Media,Mobile,West,Returning,1,1,1,6968,1,0
+456,2025-01-29,Paid Search,Mobile,East,New,1,1,1,4504,0,1
+457,2025-03-10,Social Media,Tablet,South,New,1,1,0,0,0,0
+458,2025-02-16,Referral,Desktop,South,New,1,0,0,0,0,0
+459,2025-04-04,Paid Search,Desktop,South,New,1,0,0,0,0,0
+460,2025-05-24,Social Media,Mobile,North,New,1,0,0,0,0,0
+461,2025-06-25,Organic,Desktop,North,Returning,1,0,0,0,1,0
+462,2025-03-26,Social Media,Desktop,West,Returning,1,0,0,0,1,0
+463,2025-02-08,Paid Search,Desktop,South,New,0,0,0,0,0,0
+464,2025-04-10,Referral,Tablet,South,New,1,0,0,0,0,0
+465,2025-02-02,Email,Mobile,East,New,1,1,1,7775,0,0
+466,2025-04-11,Paid Search,Tablet,East,New,0,0,0,0,0,0
+467,2025-01-23,Organic,Tablet,North,Returning,0,0,0,0,1,1
+468,2025-01-10,Email,Mobile,West,Returning,1,1,1,7204,1,0
+469,2025-03-10,Email,Mobile,North,New,1,1,0,0,0,0
+470,2025-04-10,Organic,Tablet,West,New,1,1,1,9317,0,0
+471,2025-02-03,Organic,Mobile,West,New,1,0,0,0,0,1
+472,2025-06-29,Email,Mobile,West,New,1,0,0,0,0,0
+473,2025-05-18,Organic,Tablet,East,New,1,0,0,0,0,0
+474,2025-05-27,Referral,Mobile,North,New,1,0,0,0,0,1
+475,2025-04-06,Paid Search,Mobile,South,New,1,1,0,0,0,0
+476,2025-01-01,Organic,Mobile,East,Returning,1,1,1,9860,1,0
+477,2025-03-10,Email,Mobile,South,New,1,1,1,5471,0,0
+478,2025-01-04,Paid Search,Mobile,West,New,1,0,0,0,0,1
+479,2025-01-16,Paid Search,Mobile,South,New,1,1,0,0,0,0
+480,2025-01-24,Organic,Desktop,South,New,0,0,0,0,0,0
+481,2025-03-21,Organic,Mobile,South,New,1,0,0,0,0,0
+482,2025-01-02,Social Media,Desktop,South,New,1,0,0,0,0,0
+483,2025-05-08,Paid Search,Desktop,East,New,1,1,0,0,0,0
+484,2025-06-09,Social Media,Mobile,West,New,1,1,1,9968,0,0
+485,2025-03-25,Email,Desktop,East,Returning,1,0,0,0,1,0
+486,2025-06-01,Social Media,Mobile,West,New,1,0,0,0,0,0
+487,2025-05-20,Organic,Mobile,West,Returning,1,1,1,8443,1,0
+488,2025-06-27,Paid Search,Mobile,West,New,1,1,0,0,0,1
+489,2025-06-12,Referral,Tablet,North,New,1,0,0,0,0,0
+490,2025-05-04,Email,Mobile,West,New,1,1,0,0,0,1
+491,2025-02-02,Social Media,Mobile,North,New,0,0,0,0,0,0
+492,2025-06-10,Organic,Desktop,North,Returning,1,1,0,0,1,0
+493,2025-06-28,Paid Search,Mobile,East,Returning,1,1,1,7097,1,0
+494,2025-06-20,Social Media,Mobile,South,Returning,1,1,0,0,1,0
+495,2025-04-11,Email,Mobile,North,Returning,1,0,0,0,1,1
+496,2025-01-12,Social Media,Desktop,North,New,1,1,0,0,0,1
+497,2025-03-08,Email,Desktop,North,New,1,0,0,0,0,0
+498,2025-03-06,Email,Mobile,West,New,1,1,0,0,0,0
+499,2025-06-10,Organic,Mobile,North,Returning,1,0,0,0,1,0
+500,2025-06-17,Paid Search,Mobile,North,Returning,0,0,0,0,1,0
+501,2025-03-15,Organic,Desktop,South,New,1,0,0,0,0,0
+502,2025-02-12,Organic,Mobile,South,Returning,1,1,0,0,1,0
+503,2025-02-13,Email,Mobile,West,New,1,0,0,0,0,0
+504,2025-01-29,Paid Search,Mobile,North,New,1,1,0,0,0,0
+505,2025-05-21,Paid Search,Mobile,East,New,1,1,0,0,0,1
+506,2025-01-12,Organic,Mobile,East,New,1,1,0,0,0,1
+507,2025-04-05,Paid Search,Mobile,West,Returning,1,1,1,8297,1,0
+508,2025-02-15,Organic,Mobile,East,New,1,0,0,0,0,1
+509,2025-05-10,Organic,Desktop,West,New,1,1,0,0,0,0
+510,2025-02-04,Social Media,Mobile,North,New,1,1,0,0,0,0
+511,2025-03-22,Organic,Tablet,South,New,1,1,0,0,0,0
+512,2025-03-31,Social Media,Mobile,South,New,1,1,1,7042,0,0
+513,2025-01-08,Organic,Desktop,West,New,1,1,0,0,0,0
+514,2025-04-03,Organic,Desktop,North,New,1,0,0,0,0,1
+515,2025-06-03,Organic,Mobile,North,New,1,1,0,0,0,1
+516,2025-03-31,Social Media,Mobile,South,New,1,1,0,0,0,0
+517,2025-06-11,Social Media,Desktop,North,Returning,1,1,0,0,1,1
+518,2025-04-25,Paid Search,Mobile,North,New,1,1,0,0,0,0
+519,2025-04-15,Paid Search,Tablet,West,New,1,0,0,0,0,0
+520,2025-05-15,Social Media,Mobile,South,New,1,0,0,0,0,0
+521,2025-02-27,Organic,Tablet,East,New,1,0,0,0,0,0
+522,2025-04-24,Paid Search,Mobile,West,New,0,0,0,0,0,0
+523,2025-03-16,Email,Desktop,South,Returning,1,1,1,4357,1,0
+524,2025-06-06,Social Media,Desktop,North,Returning,1,1,0,0,1,0
+525,2025-04-30,Paid Search,Desktop,North,Returning,1,0,0,0,1,0
+526,2025-06-13,Referral,Mobile,South,New,1,1,0,0,0,0
+527,2025-01-21,Email,Desktop,East,New,1,1,0,0,0,0
+528,2025-06-13,Organic,Mobile,South,Returning,1,1,1,1051,1,0
+529,2025-05-18,Social Media,Desktop,North,New,1,1,0,0,0,0
+530,2025-04-11,Social Media,Mobile,East,New,1,1,0,0,0,0
+531,2025-06-01,Paid Search,Desktop,West,Returning,0,0,0,0,1,1
+532,2025-06-26,Paid Search,Mobile,West,New,1,0,0,0,0,0
+533,2025-04-09,Paid Search,Desktop,West,New,1,0,0,0,0,0
+534,2025-02-05,Social Media,Desktop,West,New,1,0,0,0,0,0
+535,2025-04-06,Paid Search,Desktop,South,New,1,0,0,0,0,0
+536,2025-06-01,Email,Mobile,West,New,1,1,0,0,0,0
+537,2025-05-31,Social Media,Mobile,North,New,1,1,1,958,0,0
+538,2025-02-06,Organic,Tablet,East,New,1,0,0,0,0,1
+539,2025-01-12,Social Media,Mobile,East,New,1,1,0,0,0,0
+540,2025-04-23,Organic,Mobile,North,New,1,0,0,0,0,0
+541,2025-01-13,Social Media,Desktop,West,Returning,1,1,1,8194,1,0
+542,2025-01-23,Social Media,Desktop,West,New,1,1,0,0,0,0
+543,2025-04-09,Organic,Mobile,South,New,1,0,0,0,0,0
+544,2025-04-15,Paid Search,Desktop,West,New,1,0,0,0,0,0
+545,2025-01-30,Organic,Desktop,North,Returning,0,0,0,0,1,1
+546,2025-01-17,Organic,Mobile,East,New,1,1,0,0,0,0
+547,2025-04-23,Paid Search,Tablet,South,New,0,0,0,0,0,1
+548,2025-03-03,Paid Search,Mobile,East,New,1,1,1,3089,0,0
+549,2025-03-25,Referral,Mobile,West,Returning,1,1,1,4810,1,0
+550,2025-04-22,Paid Search,Mobile,West,New,0,0,0,0,0,0
+551,2025-03-27,Paid Search,Mobile,West,New,1,0,0,0,0,0
+552,2025-05-21,Social Media,Tablet,South,New,0,0,0,0,0,1
+553,2025-01-19,Organic,Mobile,West,New,1,1,0,0,0,0
+554,2025-06-26,Referral,Mobile,North,Returning,1,1,0,0,1,0
+555,2025-04-10,Social Media,Mobile,West,Returning,1,1,0,0,1,1
+556,2025-05-20,Email,Mobile,South,New,1,1,0,0,0,1
+557,2025-05-27,Organic,Mobile,North,Returning,0,0,0,0,1,1
+558,2025-03-17,Paid Search,Mobile,East,New,1,1,0,0,0,1
+559,2025-01-09,Paid Search,Mobile,North,New,0,0,0,0,0,0
+560,2025-01-28,Email,Desktop,North,New,1,0,0,0,0,1
+561,2025-05-08,Organic,Mobile,South,New,0,0,0,0,0,0
+562,2025-02-21,Paid Search,Mobile,North,Returning,1,1,0,0,1,1
+563,2025-03-24,Referral,Mobile,North,New,1,1,0,0,0,1
+564,2025-04-21,Paid Search,Desktop,North,New,1,0,0,0,0,0
+565,2025-05-24,Paid Search,Mobile,South,New,1,1,1,3426,0,1
+566,2025-04-27,Organic,Mobile,North,New,1,1,1,8475,0,0
+567,2025-03-10,Referral,Mobile,East,New,0,0,0,0,0,0
+568,2025-04-09,Organic,Tablet,North,New,0,0,0,0,0,0
+569,2025-05-20,Social Media,Mobile,West,Returning,1,0,0,0,1,1
+570,2025-01-25,Email,Desktop,West,New,1,1,0,0,0,0
+571,2025-06-29,Organic,Mobile,South,New,1,1,0,0,0,0
+572,2025-05-03,Social Media,Mobile,West,Returning,0,0,0,0,1,0
+573,2025-02-22,Organic,Desktop,West,Returning,1,0,0,0,1,1
+574,2025-05-31,Organic,Mobile,West,New,1,0,0,0,0,0
+575,2025-05-24,Email,Desktop,East,Returning,1,1,0,0,1,1
+576,2025-02-26,Email,Tablet,North,New,1,0,0,0,0,1
+577,2025-02-08,Social Media,Desktop,East,New,0,0,0,0,0,0
+578,2025-04-19,Paid Search,Mobile,East,New,1,0,0,0,0,0
+579,2025-06-30,Organic,Desktop,East,Returning,1,1,1,2061,1,0
+580,2025-02-11,Organic,Mobile,South,New,1,1,0,0,0,1
+581,2025-06-16,Organic,Desktop,West,New,0,0,0,0,0,1
+582,2025-05-22,Organic,Desktop,West,New,1,1,0,0,0,0
+583,2025-05-02,Paid Search,Desktop,North,Returning,1,1,1,5734,1,1
+584,2025-05-13,Paid Search,Mobile,North,New,1,1,0,0,0,0
+585,2025-06-12,Paid Search,Mobile,North,New,1,0,0,0,0,0
+586,2025-03-16,Organic,Mobile,West,New,0,0,0,0,0,1
+587,2025-05-26,Paid Search,Desktop,East,Returning,0,0,0,0,1,0
+588,2025-03-17,Email,Mobile,East,Returning,1,0,0,0,1,1
+589,2025-01-09,Organic,Mobile,South,New,0,0,0,0,0,0
+590,2025-03-15,Referral,Desktop,East,New,1,1,1,5445,0,1
+591,2025-05-25,Email,Mobile,South,Returning,1,0,0,0,1,0
+592,2025-01-07,Organic,Mobile,South,New,1,1,1,4466,0,0
+593,2025-06-23,Email,Mobile,West,Returning,1,0,0,0,1,1
+594,2025-05-21,Social Media,Mobile,West,Returning,1,0,0,0,1,0
+595,2025-06-17,Social Media,Mobile,West,New,1,1,0,0,0,0
+596,2025-06-19,Paid Search,Mobile,West,New,0,0,0,0,0,1
+597,2025-05-17,Paid Search,Mobile,South,New,1,1,0,0,0,0
+598,2025-06-27,Paid Search,Mobile,South,New,1,0,0,0,0,1
+599,2025-01-27,Paid Search,Desktop,West,New,1,0,0,0,0,0
+600,2025-05-02,Social Media,Mobile,West,New,1,0,0,0,0,0
+601,2025-01-05,Social Media,Mobile,North,New,0,0,0,0,0,1
+602,2025-01-29,Paid Search,Tablet,South,New,1,0,0,0,0,0
+603,2025-06-14,Social Media,Mobile,North,New,1,1,0,0,0,0
+604,2025-06-15,Organic,Mobile,East,New,1,1,0,0,0,0
+605,2025-03-24,Organic,Desktop,South,Returning,1,1,1,9594,1,1
+606,2025-05-16,Email,Tablet,South,New,1,1,0,0,0,0
+607,2025-04-19,Paid Search,Desktop,North,Returning,1,1,1,5738,1,0
+608,2025-03-06,Organic,Desktop,South,New,1,1,0,0,0,0
+609,2025-03-27,Organic,Desktop,West,New,1,0,0,0,0,0
+610,2025-05-25,Organic,Mobile,North,Returning,1,0,0,0,1,0
+611,2025-03-12,Referral,Desktop,East,New,0,0,0,0,0,0
+612,2025-02-14,Social Media,Mobile,East,New,1,0,0,0,0,0
+613,2025-05-12,Referral,Tablet,West,New,1,0,0,0,0,0
+614,2025-02-05,Social Media,Mobile,North,New,1,1,1,2664,0,0
+615,2025-03-11,Paid Search,Mobile,West,New,1,1,0,0,0,0
+616,2025-06-08,Paid Search,Mobile,East,New,1,1,0,0,0,0
+617,2025-01-19,Social Media,Desktop,West,New,0,0,0,0,0,1
+618,2025-04-18,Organic,Mobile,West,New,1,0,0,0,0,0
+619,2025-06-16,Email,Desktop,North,New,1,1,0,0,0,0
+620,2025-04-01,Email,Desktop,North,New,1,1,1,6469,0,0
+621,2025-03-31,Paid Search,Mobile,South,New,1,1,0,0,0,0
+622,2025-01-19,Referral,Desktop,East,New,0,0,0,0,0,1
+623,2025-02-08,Email,Desktop,North,Returning,1,1,0,0,1,1
+624,2025-05-06,Social Media,Desktop,North,New,1,1,1,4045,0,0
+625,2025-06-22,Organic,Mobile,South,New,0,0,0,0,0,0
+626,2025-05-21,Paid Search,Mobile,North,New,1,1,0,0,0,0
+627,2025-05-06,Paid Search,Mobile,North,Returning,1,1,0,0,1,0
+628,2025-02-27,Organic,Mobile,South,New,1,0,0,0,0,1
+629,2025-05-28,Organic,Tablet,North,Returning,1,1,0,0,1,0
+630,2025-03-02,Email,Mobile,South,New,1,0,0,0,0,0
+631,2025-05-07,Organic,Desktop,South,New,0,0,0,0,0,0
+632,2025-04-15,Social Media,Mobile,South,Returning,0,0,0,0,1,0
+633,2025-06-16,Referral,Mobile,West,New,1,1,0,0,0,0
+634,2025-01-01,Email,Desktop,East,New,1,1,0,0,0,1
+635,2025-05-11,Organic,Desktop,South,Returning,1,0,0,0,1,0
+636,2025-04-02,Email,Mobile,South,Returning,1,0,0,0,1,0
+637,2025-04-23,Organic,Mobile,West,New,0,0,0,0,0,0
+638,2025-06-02,Organic,Mobile,West,New,1,1,1,5606,0,0
+639,2025-02-25,Social Media,Mobile,West,Returning,0,0,0,0,1,0
+640,2025-06-10,Paid Search,Mobile,East,New,0,0,0,0,0,0
+641,2025-06-15,Paid Search,Mobile,North,Returning,1,1,0,0,1,0
+642,2025-04-27,Social Media,Mobile,South,New,1,1,1,3539,0,0
+643,2025-05-14,Organic,Desktop,North,New,1,0,0,0,0,1
+644,2025-02-27,Organic,Mobile,West,Returning,1,1,1,3237,1,0
+645,2025-02-13,Paid Search,Mobile,East,New,0,0,0,0,0,1
+646,2025-06-22,Email,Mobile,West,New,0,0,0,0,0,0
+647,2025-06-09,Social Media,Desktop,South,New,1,1,1,2107,0,0
+648,2025-06-22,Organic,Desktop,West,New,0,0,0,0,0,0
+649,2025-03-02,Paid Search,Mobile,South,New,1,1,0,0,0,1
+650,2025-02-16,Organic,Desktop,North,Returning,0,0,0,0,1,0
+651,2025-05-29,Organic,Mobile,South,New,1,1,0,0,0,0
+652,2025-03-21,Email,Mobile,East,New,0,0,0,0,0,0
+653,2025-04-28,Organic,Mobile,South,Returning,0,0,0,0,1,0
+654,2025-06-13,Organic,Mobile,West,New,1,1,0,0,0,0
+655,2025-05-27,Social Media,Desktop,North,New,1,1,1,5425,0,1
+656,2025-01-20,Social Media,Desktop,East,New,0,0,0,0,0,0
+657,2025-05-26,Social Media,Mobile,East,Returning,1,1,1,6283,1,0
+658,2025-02-16,Organic,Desktop,South,New,1,0,0,0,0,0
+659,2025-02-18,Organic,Mobile,West,New,1,0,0,0,0,0
+660,2025-01-14,Organic,Mobile,West,New,1,0,0,0,0,0
+661,2025-05-23,Organic,Mobile,West,New,0,0,0,0,0,1
+662,2025-06-08,Social Media,Mobile,West,New,1,1,1,1502,0,0
+663,2025-01-01,Email,Mobile,West,New,1,0,0,0,0,1
+664,2025-04-27,Social Media,Mobile,North,New,1,0,0,0,0,1
+665,2025-02-23,Email,Mobile,West,Returning,1,1,1,7517,1,0
+666,2025-04-28,Paid Search,Mobile,South,New,1,0,0,0,0,0
+667,2025-01-03,Social Media,Desktop,North,New,1,1,1,2117,0,0
+668,2025-05-24,Paid Search,Mobile,North,New,1,0,0,0,0,1
+669,2025-01-12,Paid Search,Tablet,West,New,1,0,0,0,0,0
+670,2025-03-15,Paid Search,Mobile,West,New,0,0,0,0,0,0
+671,2025-01-16,Organic,Desktop,North,New,1,0,0,0,0,0
+672,2025-04-12,Paid Search,Desktop,West,New,0,0,0,0,0,0
+673,2025-06-01,Referral,Desktop,West,Returning,1,1,1,7405,1,0
+674,2025-06-05,Organic,Mobile,North,New,1,0,0,0,0,0
+675,2025-04-27,Organic,Desktop,North,New,1,0,0,0,0,1
+676,2025-01-08,Paid Search,Mobile,West,New,1,0,0,0,0,1
+677,2025-05-02,Email,Mobile,South,New,0,0,0,0,0,0
+678,2025-04-02,Social Media,Mobile,East,New,0,0,0,0,0,0
+679,2025-06-13,Social Media,Mobile,North,New,1,1,0,0,0,1
+680,2025-03-31,Organic,Mobile,South,New,0,0,0,0,0,0
+681,2025-05-16,Social Media,Tablet,West,Returning,1,0,0,0,1,1
+682,2025-03-01,Paid Search,Desktop,East,New,1,1,0,0,0,0
+683,2025-06-27,Email,Mobile,West,New,1,1,1,9449,0,0
+684,2025-01-28,Social Media,Tablet,West,New,1,0,0,0,0,0
+685,2025-04-11,Organic,Mobile,West,New,1,1,1,6837,0,0
+686,2025-02-10,Organic,Tablet,East,New,1,1,0,0,0,1
+687,2025-06-04,Organic,Mobile,North,Returning,1,0,0,0,1,0
+688,2025-05-25,Paid Search,Mobile,East,New,1,1,0,0,0,0
+689,2025-06-10,Organic,Desktop,North,Returning,1,0,0,0,1,0
+690,2025-06-06,Social Media,Desktop,West,Returning,0,0,0,0,1,1
+691,2025-05-21,Paid Search,Desktop,South,New,0,0,0,0,0,0
+692,2025-02-15,Organic,Tablet,East,New,1,0,0,0,0,1
+693,2025-02-04,Organic,Desktop,South,New,1,0,0,0,0,0
+694,2025-05-14,Organic,Desktop,West,New,1,0,0,0,0,0
+695,2025-03-23,Email,Desktop,West,Returning,1,1,0,0,1,1
+696,2025-04-25,Organic,Desktop,South,New,1,1,1,2711,0,0
+697,2025-02-16,Social Media,Mobile,West,Returning,1,1,0,0,1,0
+698,2025-06-02,Email,Desktop,South,New,1,1,1,5863,0,0
+699,2025-01-10,Social Media,Mobile,East,Returning,1,0,0,0,1,0
+700,2025-02-25,Email,Desktop,West,Returning,1,0,0,0,1,0
+701,2025-01-30,Paid Search,Desktop,South,New,1,1,0,0,0,0
+702,2025-04-19,Referral,Desktop,West,New,1,1,1,6490,0,0
+703,2025-01-05,Organic,Desktop,North,New,1,0,0,0,0,0
+704,2025-04-29,Organic,Desktop,North,Returning,1,0,0,0,1,0
+705,2025-02-02,Social Media,Mobile,West,Returning,1,1,0,0,1,0
+706,2025-04-28,Referral,Desktop,North,Returning,1,1,1,558,1,1
+707,2025-03-06,Email,Mobile,West,New,1,1,1,3136,0,1
+708,2025-05-26,Organic,Mobile,West,New,1,0,0,0,0,0
+709,2025-06-26,Organic,Mobile,North,Returning,1,1,0,0,1,0
+710,2025-01-11,Referral,Mobile,East,New,1,1,0,0,0,1
+711,2025-03-26,Organic,Mobile,North,Returning,1,1,0,0,1,0
+712,2025-01-26,Email,Desktop,South,New,1,1,0,0,0,0
+713,2025-03-04,Email,Mobile,North,New,1,1,0,0,0,1
+714,2025-03-27,Paid Search,Mobile,North,New,1,1,0,0,0,0
+715,2025-02-28,Paid Search,Mobile,South,New,1,1,1,3620,0,0
+716,2025-01-27,Paid Search,Mobile,South,New,1,1,1,9782,0,1
+717,2025-06-26,Organic,Desktop,West,New,1,1,0,0,0,0
+718,2025-06-10,Email,Mobile,West,New,1,1,1,3690,0,0
+719,2025-04-08,Paid Search,Mobile,West,New,1,1,1,5287,0,0
+720,2025-04-15,Email,Mobile,East,New,1,1,0,0,0,0
+721,2025-04-09,Organic,Mobile,West,Returning,1,1,0,0,1,1
+722,2025-05-09,Referral,Mobile,South,Returning,1,1,0,0,1,0
+723,2025-05-29,Paid Search,Mobile,West,Returning,1,1,1,4077,1,0
+724,2025-02-24,Organic,Desktop,West,Returning,1,0,0,0,1,1
+725,2025-01-06,Organic,Desktop,South,New,1,1,0,0,0,0
+726,2025-04-05,Social Media,Mobile,East,New,0,0,0,0,0,0
+727,2025-05-13,Social Media,Tablet,West,New,1,0,0,0,0,0
+728,2025-04-12,Email,Mobile,West,Returning,1,1,0,0,1,0
+729,2025-01-03,Organic,Mobile,West,New,0,0,0,0,0,0
+730,2025-06-30,Organic,Tablet,South,New,1,0,0,0,0,1
+731,2025-01-23,Paid Search,Mobile,South,Returning,1,1,0,0,1,1
+732,2025-02-22,Paid Search,Tablet,North,New,1,0,0,0,0,0
+733,2025-06-14,Paid Search,Mobile,West,New,1,0,0,0,0,0
+734,2025-03-24,Referral,Mobile,North,New,1,0,0,0,0,0
+735,2025-05-25,Referral,Mobile,West,New,1,0,0,0,0,0
+736,2025-03-26,Referral,Desktop,North,New,1,1,0,0,0,0
+737,2025-03-19,Email,Desktop,North,New,1,1,0,0,0,1
+738,2025-04-20,Paid Search,Desktop,South,New,1,1,0,0,0,0
+739,2025-01-01,Paid Search,Mobile,West,New,1,0,0,0,0,0
+740,2025-02-20,Paid Search,Mobile,North,Returning,1,0,0,0,1,0
+741,2025-06-22,Email,Mobile,South,Returning,1,0,0,0,1,0
+742,2025-01-04,Organic,Mobile,South,New,1,1,0,0,0,0
+743,2025-04-23,Paid Search,Tablet,North,Returning,1,1,0,0,1,0
+744,2025-02-01,Organic,Mobile,North,New,1,1,0,0,0,0
+745,2025-02-03,Paid Search,Desktop,West,New,1,1,1,3302,0,0
+746,2025-04-02,Email,Desktop,East,New,1,1,1,8235,0,0
+747,2025-04-05,Email,Mobile,North,New,1,1,0,0,0,0
+748,2025-03-13,Organic,Desktop,West,New,1,1,1,8813,0,0
+749,2025-02-08,Referral,Mobile,West,New,0,0,0,0,0,1
+750,2025-06-03,Social Media,Mobile,East,New,1,0,0,0,0,0
+751,2025-06-11,Organic,Mobile,East,Returning,1,1,0,0,1,0
+752,2025-04-28,Organic,Mobile,West,New,1,1,0,0,0,0
+753,2025-01-03,Organic,Mobile,West,New,1,1,0,0,0,0
+754,2025-05-03,Organic,Mobile,West,New,1,1,1,1090,0,0
+755,2025-02-19,Referral,Mobile,South,New,1,0,0,0,0,0
+756,2025-01-12,Paid Search,Mobile,East,New,1,1,0,0,0,0
+757,2025-02-23,Email,Desktop,West,New,0,0,0,0,0,0
+758,2025-05-13,Paid Search,Desktop,North,New,1,0,0,0,0,0
+759,2025-02-26,Organic,Mobile,South,Returning,1,1,0,0,1,0
+760,2025-05-25,Paid Search,Mobile,West,New,1,0,0,0,0,1
+761,2025-04-22,Organic,Desktop,East,Returning,0,0,0,0,1,0
+762,2025-02-16,Paid Search,Mobile,South,New,1,1,0,0,0,0
+763,2025-05-31,Referral,Desktop,East,New,0,0,0,0,0,0
+764,2025-03-26,Paid Search,Mobile,North,New,1,0,0,0,0,0
+765,2025-05-22,Social Media,Mobile,South,New,1,0,0,0,0,0
+766,2025-03-07,Organic,Mobile,West,New,1,1,0,0,0,1
+767,2025-03-16,Organic,Mobile,North,New,1,0,0,0,0,1
+768,2025-06-28,Organic,Desktop,North,Returning,1,1,0,0,1,0
+769,2025-04-13,Social Media,Mobile,West,Returning,1,1,1,8830,1,0
+770,2025-06-15,Organic,Desktop,North,New,1,0,0,0,0,0
+771,2025-02-07,Paid Search,Desktop,South,New,1,1,0,0,0,0
+772,2025-02-19,Social Media,Mobile,West,New,1,1,1,5441,0,0
+773,2025-04-08,Paid Search,Desktop,West,New,0,0,0,0,0,1
+774,2025-03-23,Organic,Mobile,East,Returning,1,0,0,0,1,1
+775,2025-01-30,Organic,Mobile,West,Returning,1,0,0,0,1,0
+776,2025-03-20,Referral,Desktop,North,Returning,1,1,0,0,1,0
+777,2025-04-01,Social Media,Mobile,West,New,1,1,1,1815,0,0
+778,2025-06-28,Paid Search,Mobile,East,New,0,0,0,0,0,0
+779,2025-02-21,Organic,Mobile,West,New,1,0,0,0,0,0
+780,2025-06-15,Referral,Mobile,East,Returning,0,0,0,0,1,0
+781,2025-03-20,Social Media,Desktop,East,New,1,1,0,0,0,0
+782,2025-01-30,Paid Search,Desktop,South,New,1,0,0,0,0,0
+783,2025-04-16,Email,Desktop,South,New,1,1,0,0,0,0
+784,2025-02-20,Organic,Desktop,West,Returning,1,0,0,0,1,0
+785,2025-03-22,Paid Search,Mobile,East,New,0,0,0,0,0,0
+786,2025-05-13,Social Media,Mobile,East,New,1,1,0,0,0,0
+787,2025-01-29,Organic,Mobile,South,Returning,1,1,1,1010,1,0
+788,2025-05-12,Referral,Mobile,East,Returning,1,0,0,0,1,0
+789,2025-05-18,Social Media,Mobile,West,New,1,1,0,0,0,0
+790,2025-05-25,Social Media,Tablet,West,New,1,0,0,0,0,0
+791,2025-03-15,Organic,Mobile,East,Returning,1,0,0,0,1,0
+792,2025-01-17,Organic,Mobile,West,Returning,0,0,0,0,1,0
+793,2025-03-25,Paid Search,Mobile,West,New,1,1,1,564,0,1
+794,2025-03-10,Email,Desktop,East,New,1,0,0,0,0,0
+795,2025-02-03,Organic,Desktop,East,New,1,0,0,0,0,0
+796,2025-01-06,Paid Search,Mobile,West,Returning,0,0,0,0,1,0
+797,2025-02-22,Social Media,Mobile,East,New,1,1,0,0,0,0
+798,2025-05-06,Organic,Desktop,West,New,1,0,0,0,0,1
+799,2025-02-12,Social Media,Mobile,East,New,1,1,1,6563,0,0
+800,2025-04-25,Organic,Mobile,East,Returning,1,0,0,0,1,0
+801,2025-04-21,Referral,Desktop,North,New,1,1,1,6609,0,0
+802,2025-05-31,Paid Search,Desktop,South,New,1,1,1,7159,0,0
+803,2025-03-21,Organic,Mobile,West,New,1,0,0,0,0,1
+804,2025-04-05,Paid Search,Desktop,East,New,1,1,1,7082,0,0
+805,2025-04-28,Paid Search,Desktop,East,New,1,1,1,5023,0,0
+806,2025-05-24,Email,Mobile,West,Returning,0,0,0,0,1,1
+807,2025-01-08,Social Media,Tablet,East,New,1,1,1,1986,0,1
+808,2025-05-12,Social Media,Desktop,East,Returning,1,1,0,0,1,0
+809,2025-04-14,Organic,Desktop,West,New,1,0,0,0,0,0
+810,2025-05-12,Organic,Desktop,West,New,1,0,0,0,0,0
+811,2025-01-25,Organic,Mobile,North,New,1,0,0,0,0,0
+812,2025-04-06,Social Media,Mobile,South,New,0,0,0,0,0,1
+813,2025-06-04,Email,Mobile,South,New,1,1,0,0,0,0
+814,2025-04-03,Paid Search,Mobile,South,Returning,1,1,0,0,1,0
+815,2025-06-09,Organic,Mobile,East,Returning,1,0,0,0,1,1
+816,2025-06-27,Social Media,Desktop,South,New,1,1,1,2121,0,0
+817,2025-03-02,Email,Desktop,North,Returning,1,1,1,2061,1,0
+818,2025-05-02,Social Media,Desktop,South,New,1,1,0,0,0,1
+819,2025-02-20,Email,Desktop,North,Returning,1,0,0,0,1,1
+820,2025-05-27,Organic,Desktop,East,New,1,0,0,0,0,1
+821,2025-01-21,Organic,Mobile,West,New,1,1,0,0,0,0
+822,2025-01-05,Email,Mobile,West,Returning,1,1,1,1630,1,1
+823,2025-04-02,Social Media,Mobile,South,New,0,0,0,0,0,0
+824,2025-06-19,Paid Search,Desktop,North,New,1,1,0,0,0,0
+825,2025-03-02,Social Media,Mobile,North,New,1,0,0,0,0,1
+826,2025-01-22,Email,Desktop,East,New,1,1,0,0,0,0
+827,2025-05-29,Social Media,Mobile,North,Returning,1,1,0,0,1,1
+828,2025-03-11,Social Media,Desktop,East,New,1,0,0,0,0,0
+829,2025-01-01,Paid Search,Desktop,North,Returning,1,1,1,4469,1,0
+830,2025-05-13,Paid Search,Desktop,West,New,1,0,0,0,0,1
+831,2025-01-12,Paid Search,Tablet,South,New,1,0,0,0,0,0
+832,2025-03-31,Email,Desktop,North,Returning,1,1,0,0,1,0
+833,2025-02-15,Email,Tablet,West,New,1,0,0,0,0,0
+834,2025-02-03,Email,Tablet,South,Returning,1,0,0,0,1,1
+835,2025-06-26,Organic,Desktop,North,New,0,0,0,0,0,0
+836,2025-03-19,Social Media,Desktop,East,New,1,0,0,0,0,0
+837,2025-02-14,Email,Mobile,East,New,1,0,0,0,0,0
+838,2025-06-04,Social Media,Mobile,West,New,1,0,0,0,0,1
+839,2025-03-14,Email,Mobile,North,New,0,0,0,0,0,0
+840,2025-01-26,Email,Mobile,South,Returning,1,0,0,0,1,0
+841,2025-02-16,Paid Search,Mobile,South,New,1,1,0,0,0,0
+842,2025-05-01,Paid Search,Tablet,North,New,1,0,0,0,0,0
+843,2025-02-25,Organic,Desktop,West,New,1,0,0,0,0,0
+844,2025-04-04,Paid Search,Desktop,West,New,1,0,0,0,0,0
+845,2025-04-17,Social Media,Mobile,South,New,1,1,1,9270,0,0
+846,2025-03-04,Email,Mobile,East,Returning,1,1,0,0,1,1
+847,2025-02-17,Organic,Mobile,North,Returning,1,1,0,0,1,1
+848,2025-03-02,Organic,Mobile,West,Returning,1,0,0,0,1,0
+849,2025-03-22,Social Media,Mobile,North,Returning,1,1,1,5838,1,0
+850,2025-01-26,Organic,Mobile,North,New,0,0,0,0,0,1
+851,2025-02-05,Organic,Tablet,East,Returning,1,0,0,0,1,0
+852,2025-01-01,Organic,Desktop,East,New,1,1,1,4427,0,0
+853,2025-01-08,Organic,Mobile,East,New,0,0,0,0,0,0
+854,2025-04-23,Organic,Mobile,North,New,1,1,0,0,0,0
+855,2025-04-09,Paid Search,Mobile,South,New,1,0,0,0,0,1
+856,2025-06-29,Paid Search,Mobile,South,Returning,1,1,0,0,1,0
+857,2025-02-16,Email,Tablet,North,New,0,0,0,0,0,0
+858,2025-05-07,Paid Search,Mobile,West,Returning,1,1,1,5026,1,0
+859,2025-02-25,Social Media,Mobile,North,New,0,0,0,0,0,0
+860,2025-01-14,Organic,Mobile,South,New,0,0,0,0,0,0
+861,2025-01-28,Organic,Mobile,East,Returning,1,1,0,0,1,0
+862,2025-03-19,Social Media,Desktop,South,New,1,0,0,0,0,1
+863,2025-05-10,Organic,Desktop,East,New,1,1,0,0,0,1
+864,2025-04-19,Paid Search,Desktop,West,New,0,0,0,0,0,1
+865,2025-06-03,Social Media,Mobile,North,New,1,0,0,0,0,1
+866,2025-01-14,Social Media,Mobile,West,New,0,0,0,0,0,0
+867,2025-02-25,Organic,Mobile,East,New,1,1,0,0,0,0
+868,2025-04-25,Paid Search,Desktop,South,Returning,1,0,0,0,1,0
+869,2025-01-07,Social Media,Mobile,South,Returning,1,0,0,0,1,0
+870,2025-01-03,Organic,Mobile,South,Returning,0,0,0,0,1,1
+871,2025-04-21,Social Media,Desktop,West,Returning,1,0,0,0,1,1
+872,2025-05-31,Social Media,Desktop,West,New,1,1,0,0,0,0
+873,2025-04-17,Referral,Mobile,West,New,1,0,0,0,0,0
+874,2025-01-18,Organic,Mobile,West,New,0,0,0,0,0,1
+875,2025-02-07,Email,Mobile,West,New,1,0,0,0,0,1
+876,2025-04-25,Paid Search,Desktop,East,Returning,1,1,1,2621,1,0
+877,2025-01-15,Paid Search,Mobile,South,New,1,1,0,0,0,1
+878,2025-04-29,Organic,Tablet,East,New,1,0,0,0,0,0
+879,2025-01-28,Social Media,Mobile,North,New,1,0,0,0,0,0
+880,2025-02-08,Organic,Tablet,West,New,1,1,0,0,0,0
+881,2025-01-17,Paid Search,Desktop,South,New,0,0,0,0,0,0
+882,2025-03-27,Organic,Mobile,North,New,0,0,0,0,0,0
+883,2025-05-06,Email,Desktop,North,New,1,0,0,0,0,0
+884,2025-02-13,Email,Mobile,South,New,1,0,0,0,0,1
+885,2025-01-25,Social Media,Tablet,East,New,1,0,0,0,0,0
+886,2025-05-25,Organic,Desktop,South,New,1,1,1,1105,0,0
+887,2025-01-13,Organic,Mobile,East,Returning,1,1,0,0,1,0
+888,2025-01-25,Social Media,Desktop,South,New,1,0,0,0,0,0
+889,2025-03-09,Paid Search,Tablet,East,New,1,1,1,6352,0,0
+890,2025-05-18,Organic,Mobile,North,Returning,1,0,0,0,1,0
+891,2025-03-08,Social Media,Mobile,North,New,1,1,0,0,0,0
+892,2025-04-19,Referral,Desktop,East,Returning,1,0,0,0,1,0
+893,2025-05-26,Social Media,Desktop,South,Returning,1,0,0,0,1,0
+894,2025-04-21,Social Media,Mobile,North,New,1,1,1,1876,0,0
+895,2025-04-21,Referral,Mobile,South,Returning,0,0,0,0,1,1
+896,2025-02-03,Organic,Mobile,North,Returning,0,0,0,0,1,0
+897,2025-04-21,Social Media,Mobile,East,New,1,1,1,500,0,0
+898,2025-01-08,Referral,Mobile,South,New,1,0,0,0,0,0
+899,2025-06-17,Organic,Tablet,East,Returning,1,1,1,2283,1,0
+900,2025-04-23,Social Media,Mobile,West,Returning,1,0,0,0,1,0
+901,2025-03-24,Social Media,Desktop,South,New,0,0,0,0,0,1
+902,2025-02-11,Social Media,Mobile,West,New,1,0,0,0,0,1
+903,2025-06-18,Social Media,Mobile,East,Returning,0,0,0,0,1,0
+904,2025-04-11,Referral,Mobile,East,New,0,0,0,0,0,0
+905,2025-01-06,Email,Mobile,East,New,1,1,0,0,0,0
+906,2025-06-29,Organic,Desktop,East,Returning,1,1,1,9970,1,1
+907,2025-01-26,Email,Tablet,East,New,1,0,0,0,0,0
+908,2025-03-05,Organic,Desktop,South,New,0,0,0,0,0,0
+909,2025-02-28,Paid Search,Tablet,North,Returning,1,0,0,0,1,1
+910,2025-04-19,Paid Search,Desktop,North,Returning,1,1,0,0,1,1
+911,2025-05-01,Paid Search,Mobile,South,New,1,1,1,1454,0,1
+912,2025-02-02,Paid Search,Desktop,South,New,1,0,0,0,0,1
+913,2025-06-30,Referral,Desktop,South,New,1,0,0,0,0,1
+914,2025-05-30,Social Media,Mobile,North,Returning,1,1,0,0,1,0
+915,2025-01-21,Social Media,Desktop,West,New,1,0,0,0,0,0
+916,2025-03-11,Organic,Mobile,West,New,1,0,0,0,0,1
+917,2025-04-22,Referral,Mobile,West,New,1,0,0,0,0,0
+918,2025-01-04,Referral,Desktop,South,Returning,1,0,0,0,1,1
+919,2025-04-04,Email,Mobile,West,New,1,1,0,0,0,0
+920,2025-03-16,Organic,Mobile,West,New,0,0,0,0,0,0
+921,2025-03-03,Organic,Tablet,South,New,1,0,0,0,0,0
+922,2025-04-04,Organic,Desktop,South,Returning,1,1,1,1525,1,0
+923,2025-04-05,Organic,Mobile,West,New,1,0,0,0,0,0
+924,2025-06-01,Paid Search,Desktop,East,New,1,1,0,0,0,0
+925,2025-02-24,Referral,Mobile,South,New,1,1,1,6236,0,0
+926,2025-05-17,Paid Search,Mobile,North,Returning,1,1,1,8179,1,0
+927,2025-05-11,Organic,Tablet,North,New,1,0,0,0,0,0
+928,2025-01-31,Organic,Desktop,West,New,1,0,0,0,0,0
+929,2025-02-09,Organic,Mobile,East,New,1,1,1,7889,0,0
+930,2025-02-05,Organic,Desktop,South,Returning,1,1,0,0,1,0
+931,2025-06-01,Organic,Desktop,North,New,1,0,0,0,0,1
+932,2025-01-06,Organic,Mobile,East,Returning,1,1,0,0,1,1
+933,2025-03-07,Email,Mobile,East,Returning,1,1,0,0,1,1
+934,2025-03-16,Referral,Mobile,North,New,0,0,0,0,0,1
+935,2025-01-04,Paid Search,Desktop,West,New,1,1,0,0,0,0
+936,2025-03-20,Paid Search,Desktop,North,New,0,0,0,0,0,1
+937,2025-05-14,Email,Desktop,South,New,1,0,0,0,0,1
+938,2025-04-28,Organic,Tablet,East,New,0,0,0,0,0,1
+939,2025-04-23,Organic,Desktop,South,New,1,1,1,1742,0,0
+940,2025-04-04,Email,Mobile,West,Returning,0,0,0,0,1,1
+941,2025-06-28,Organic,Mobile,West,New,1,1,0,0,0,0
+942,2025-03-03,Social Media,Mobile,West,Returning,1,0,0,0,1,1
+943,2025-03-20,Social Media,Mobile,North,New,1,0,0,0,0,0
+944,2025-05-16,Paid Search,Desktop,North,New,1,1,0,0,0,0
+945,2025-01-26,Paid Search,Desktop,South,Returning,1,0,0,0,1,0
+946,2025-06-28,Email,Mobile,East,New,1,0,0,0,0,0
+947,2025-06-22,Organic,Mobile,West,Returning,1,1,0,0,1,0
+948,2025-02-13,Organic,Desktop,West,New,1,0,0,0,0,1
+949,2025-05-13,Social Media,Mobile,West,New,1,0,0,0,0,0
+950,2025-03-11,Paid Search,Mobile,West,Returning,1,0,0,0,1,0
+951,2025-06-03,Organic,Mobile,West,New,1,1,0,0,0,0
+952,2025-04-28,Email,Mobile,South,New,1,1,1,2525,0,0
+953,2025-03-09,Paid Search,Tablet,South,Returning,1,1,0,0,1,0
+954,2025-01-19,Email,Mobile,East,New,1,0,0,0,0,0
+955,2025-01-20,Email,Mobile,North,Returning,1,0,0,0,1,0
+956,2025-04-23,Social Media,Mobile,North,Returning,1,1,1,5323,1,0
+957,2025-05-20,Paid Search,Tablet,East,Returning,0,0,0,0,1,0
+958,2025-02-16,Referral,Mobile,West,New,1,0,0,0,0,0
+959,2025-01-01,Organic,Mobile,North,New,1,0,0,0,0,0
+960,2025-03-31,Social Media,Mobile,West,Returning,0,0,0,0,1,1
+961,2025-05-22,Organic,Mobile,West,New,1,1,0,0,0,0
+962,2025-03-05,Paid Search,Mobile,South,New,1,0,0,0,0,0
+963,2025-02-07,Paid Search,Desktop,North,New,1,0,0,0,0,0
+964,2025-02-06,Referral,Mobile,North,New,1,0,0,0,0,0
+965,2025-05-06,Referral,Mobile,West,Returning,1,0,0,0,1,0
+966,2025-05-19,Organic,Desktop,West,Returning,1,1,0,0,1,0
+967,2025-04-10,Organic,Mobile,West,New,1,1,1,4607,0,0
+968,2025-03-18,Social Media,Mobile,East,New,1,1,0,0,0,0
+969,2025-01-03,Paid Search,Mobile,North,Returning,1,0,0,0,1,0
+970,2025-06-10,Organic,Tablet,North,New,0,0,0,0,0,0
+971,2025-05-14,Social Media,Mobile,West,Returning,1,0,0,0,1,1
+972,2025-06-27,Paid Search,Desktop,North,New,1,0,0,0,0,0
+973,2025-01-10,Referral,Desktop,South,New,1,1,0,0,0,0
+974,2025-01-05,Organic,Mobile,South,New,0,0,0,0,0,1
+975,2025-05-31,Paid Search,Tablet,North,Returning,1,0,0,0,1,1
+976,2025-05-18,Paid Search,Mobile,North,New,1,0,0,0,0,0
+977,2025-06-21,Email,Mobile,South,New,1,0,0,0,0,0
+978,2025-05-10,Paid Search,Desktop,South,New,1,1,1,8431,0,0
+979,2025-01-13,Social Media,Desktop,North,Returning,1,1,0,0,1,0
+980,2025-06-17,Organic,Desktop,West,Returning,1,0,0,0,1,0
+981,2025-05-10,Email,Mobile,West,New,0,0,0,0,0,0
+982,2025-03-25,Paid Search,Mobile,South,New,1,0,0,0,0,0
+983,2025-03-06,Organic,Desktop,West,New,1,0,0,0,0,0
+984,2025-03-04,Social Media,Mobile,South,New,1,1,0,0,0,0
+985,2025-04-11,Organic,Mobile,East,New,1,0,0,0,0,0
+986,2025-03-14,Organic,Mobile,West,New,1,1,0,0,0,0
+987,2025-01-17,Email,Mobile,West,New,0,0,0,0,0,0
+988,2025-01-09,Paid Search,Desktop,West,New,1,1,0,0,0,0
+989,2025-05-23,Social Media,Mobile,North,New,1,1,0,0,0,0
+990,2025-06-01,Organic,Tablet,North,Returning,1,1,0,0,1,1
+991,2025-02-07,Email,Mobile,West,New,0,0,0,0,0,0
+992,2025-06-12,Organic,Desktop,South,New,1,1,0,0,0,0
+993,2025-04-04,Paid Search,Mobile,South,New,1,0,0,0,0,1
+994,2025-04-05,Referral,Mobile,West,New,1,1,0,0,0,0
+995,2025-02-18,Email,Mobile,West,New,0,0,0,0,0,1
+996,2025-03-10,Paid Search,Mobile,West,Returning,0,0,0,0,1,0
+997,2025-03-03,Paid Search,Mobile,South,New,1,0,0,0,0,0
+998,2025-06-27,Email,Tablet,West,New,1,1,0,0,0,0
+999,2025-03-19,Paid Search,Desktop,North,New,1,1,0,0,0,0
+1000,2025-04-27,Email,Mobile,North,Returning,1,0,0,0,1,0
+1001,2025-04-30,Email,Mobile,East,New,0,0,0,0,0,1
+1002,2025-05-17,Organic,Mobile,North,New,1,0,0,0,0,0
+1003,2025-06-11,Organic,Mobile,South,New,0,0,0,0,0,0
+1004,2025-03-17,Social Media,Desktop,East,New,1,1,0,0,0,1
+1005,2025-02-04,Organic,Tablet,South,Returning,1,0,0,0,1,0
+1006,2025-01-01,Organic,Mobile,North,Returning,1,1,0,0,1,0
+1007,2025-02-09,Referral,Mobile,South,New,1,0,0,0,0,0
+1008,2025-03-05,Social Media,Mobile,South,New,1,0,0,0,0,1
+1009,2025-05-30,Email,Desktop,South,Returning,1,0,0,0,1,0
+1010,2025-03-01,Social Media,Mobile,West,New,1,1,0,0,0,0
+1011,2025-03-05,Social Media,Desktop,West,New,1,0,0,0,0,1
+1012,2025-04-03,Organic,Desktop,South,Returning,1,0,0,0,1,0
+1013,2025-03-13,Paid Search,Mobile,West,Returning,1,0,0,0,1,0
+1014,2025-01-11,Organic,Desktop,North,New,1,0,0,0,0,0
+1015,2025-04-15,Paid Search,Mobile,South,New,1,0,0,0,0,0
+1016,2025-01-14,Email,Desktop,West,New,1,0,0,0,0,0
+1017,2025-03-01,Paid Search,Mobile,South,Returning,1,1,1,3868,1,1
+1018,2025-01-30,Paid Search,Mobile,West,New,1,1,0,0,0,0
+1019,2025-02-04,Paid Search,Tablet,South,New,1,1,1,9058,0,0
+1020,2025-06-14,Organic,Desktop,West,New,1,1,1,3327,0,0
+1021,2025-01-05,Paid Search,Desktop,South,New,1,0,0,0,0,0
+1022,2025-03-24,Organic,Mobile,South,New,1,0,0,0,0,0
+1023,2025-05-03,Organic,Desktop,South,New,1,1,0,0,0,1
+1024,2025-03-19,Organic,Mobile,West,New,0,0,0,0,0,0
+1025,2025-06-03,Paid Search,Desktop,East,New,1,0,0,0,0,0
+1026,2025-03-03,Email,Mobile,West,Returning,1,1,1,2143,1,0
+1027,2025-05-12,Organic,Tablet,South,New,1,0,0,0,0,0
+1028,2025-03-30,Paid Search,Tablet,North,Returning,1,0,0,0,1,1
+1029,2025-02-11,Social Media,Desktop,South,Returning,0,0,0,0,1,1
+1030,2025-03-30,Organic,Mobile,East,New,1,1,1,5934,0,0
+1031,2025-05-26,Email,Mobile,West,New,1,1,0,0,0,1
+1032,2025-02-09,Paid Search,Desktop,South,Returning,1,1,0,0,1,0
+1033,2025-03-13,Paid Search,Mobile,East,New,1,0,0,0,0,0
+1034,2025-02-08,Social Media,Desktop,South,New,1,1,1,1108,0,0
+1035,2025-04-14,Organic,Mobile,East,New,1,0,0,0,0,0
+1036,2025-01-14,Social Media,Mobile,West,New,1,1,0,0,0,1
+1037,2025-02-01,Paid Search,Tablet,North,Returning,1,0,0,0,1,0
+1038,2025-06-28,Email,Desktop,South,Returning,0,0,0,0,1,0
+1039,2025-05-05,Organic,Mobile,West,Returning,1,0,0,0,1,1
+1040,2025-06-15,Paid Search,Mobile,West,New,1,1,0,0,0,0
+1041,2025-04-07,Social Media,Mobile,East,New,0,0,0,0,0,1
+1042,2025-01-23,Organic,Desktop,East,New,1,0,0,0,0,0
+1043,2025-03-04,Paid Search,Mobile,South,New,0,0,0,0,0,0
+1044,2025-05-23,Social Media,Tablet,East,New,1,1,0,0,0,1
+1045,2025-06-02,Email,Desktop,West,New,1,1,0,0,0,0
+1046,2025-05-25,Paid Search,Mobile,East,New,1,1,1,3002,0,1
+1047,2025-02-22,Email,Desktop,South,New,1,0,0,0,0,0
+1048,2025-04-14,Referral,Mobile,North,New,1,0,0,0,0,1
+1049,2025-04-14,Email,Mobile,South,New,1,1,1,9716,0,0
+1050,2025-06-28,Organic,Tablet,North,New,1,0,0,0,0,0
+1051,2025-02-08,Social Media,Mobile,North,New,1,0,0,0,0,1
+1052,2025-06-28,Paid Search,Mobile,South,New,1,1,0,0,0,0
+1053,2025-05-14,Referral,Mobile,North,Returning,1,1,1,7440,1,0
+1054,2025-03-08,Paid Search,Mobile,North,Returning,0,0,0,0,1,1
+1055,2025-05-15,Organic,Mobile,East,Returning,1,1,1,3694,1,0
+1056,2025-06-28,Social Media,Desktop,North,New,0,0,0,0,0,1
+1057,2025-02-11,Paid Search,Desktop,North,New,1,0,0,0,0,0
+1058,2025-01-15,Referral,Desktop,South,New,1,0,0,0,0,0
+1059,2025-04-21,Referral,Mobile,North,Returning,0,0,0,0,1,0
+1060,2025-06-06,Social Media,Mobile,East,New,1,1,0,0,0,0
+1061,2025-02-02,Organic,Mobile,North,Returning,1,1,1,4163,1,0
+1062,2025-06-04,Social Media,Mobile,West,New,1,1,1,629,0,0
+1063,2025-06-13,Organic,Mobile,West,Returning,1,0,0,0,1,0
+1064,2025-06-06,Organic,Mobile,West,Returning,1,1,1,2358,1,0
+1065,2025-02-07,Email,Mobile,East,New,0,0,0,0,0,0
+1066,2025-04-07,Organic,Mobile,West,New,1,1,0,0,0,1
+1067,2025-06-04,Paid Search,Tablet,East,New,1,1,0,0,0,0
+1068,2025-02-02,Referral,Tablet,North,New,1,1,1,5360,0,0
+1069,2025-03-27,Paid Search,Desktop,South,New,1,1,0,0,0,1
+1070,2025-03-07,Organic,Tablet,West,New,1,1,1,9333,0,0
+1071,2025-01-10,Referral,Desktop,South,New,1,0,0,0,0,1
+1072,2025-01-05,Organic,Mobile,North,New,1,1,0,0,0,0
+1073,2025-05-03,Email,Mobile,West,New,0,0,0,0,0,0
+1074,2025-03-15,Referral,Desktop,West,New,1,1,0,0,0,0
+1075,2025-04-07,Referral,Desktop,North,New,1,0,0,0,0,1
+1076,2025-04-28,Social Media,Desktop,East,New,0,0,0,0,0,0
+1077,2025-02-07,Paid Search,Desktop,North,Returning,1,1,0,0,1,1
+1078,2025-05-21,Organic,Mobile,West,New,1,1,0,0,0,0
+1079,2025-06-08,Email,Desktop,South,Returning,1,0,0,0,1,0
+1080,2025-02-16,Email,Tablet,South,New,1,1,1,7646,0,0
+1081,2025-04-19,Paid Search,Mobile,West,New,1,1,0,0,0,0
+1082,2025-06-29,Organic,Desktop,South,New,0,0,0,0,0,0
+1083,2025-01-15,Organic,Mobile,East,New,1,1,0,0,0,1
+1084,2025-06-06,Organic,Desktop,South,New,0,0,0,0,0,0
+1085,2025-05-16,Social Media,Desktop,South,New,1,1,1,8626,0,0
+1086,2025-01-05,Paid Search,Mobile,East,New,1,0,0,0,0,0
+1087,2025-06-06,Referral,Desktop,North,New,1,1,1,8195,0,1
+1088,2025-02-16,Social Media,Mobile,South,New,0,0,0,0,0,1
+1089,2025-03-09,Organic,Desktop,North,Returning,1,1,1,7582,1,1
+1090,2025-03-17,Social Media,Mobile,East,New,1,0,0,0,0,1
+1091,2025-06-22,Paid Search,Desktop,West,New,1,0,0,0,0,1
+1092,2025-05-10,Social Media,Mobile,West,Returning,1,1,1,8093,1,1
+1093,2025-06-04,Social Media,Desktop,South,New,1,0,0,0,0,0
+1094,2025-04-05,Email,Mobile,South,Returning,1,1,0,0,1,0
+1095,2025-04-25,Email,Desktop,South,New,0,0,0,0,0,0
+1096,2025-06-13,Organic,Tablet,West,New,0,0,0,0,0,0
+1097,2025-02-05,Organic,Tablet,North,Returning,1,0,0,0,1,0
+1098,2025-01-26,Social Media,Desktop,West,New,0,0,0,0,0,0
+1099,2025-02-12,Organic,Desktop,South,Returning,1,0,0,0,1,0
+1100,2025-01-27,Paid Search,Mobile,West,New,1,1,0,0,0,1
+1101,2025-03-10,Organic,Mobile,West,New,1,1,1,6979,0,0
+1102,2025-05-28,Social Media,Mobile,West,Returning,0,0,0,0,1,1
+1103,2025-01-11,Organic,Desktop,South,New,1,1,0,0,0,0
+1104,2025-03-15,Social Media,Tablet,North,Returning,1,0,0,0,1,1
+1105,2025-04-14,Referral,Mobile,South,New,1,0,0,0,0,1
+1106,2025-02-07,Organic,Tablet,South,New,1,0,0,0,0,1
+1107,2025-05-14,Organic,Desktop,North,New,0,0,0,0,0,0
+1108,2025-01-23,Paid Search,Desktop,East,Returning,0,0,0,0,1,0
+1109,2025-02-16,Email,Mobile,South,New,0,0,0,0,0,0
+1110,2025-03-31,Organic,Mobile,East,New,1,0,0,0,0,1
+1111,2025-02-15,Paid Search,Mobile,East,Returning,1,1,0,0,1,1
+1112,2025-04-17,Organic,Desktop,North,Returning,0,0,0,0,1,1
+1113,2025-05-20,Email,Mobile,West,New,1,1,0,0,0,0
+1114,2025-05-21,Paid Search,Mobile,North,New,1,0,0,0,0,0
+1115,2025-04-14,Email,Desktop,South,New,1,1,0,0,0,0
+1116,2025-04-21,Referral,Desktop,South,New,1,1,0,0,0,0
+1117,2025-04-14,Organic,Tablet,West,New,1,0,0,0,0,0
+1118,2025-03-01,Email,Mobile,North,New,1,0,0,0,0,0
+1119,2025-06-20,Organic,Mobile,South,New,1,0,0,0,0,1
+1120,2025-04-10,Email,Desktop,East,Returning,0,0,0,0,1,0
+1121,2025-03-09,Social Media,Mobile,North,Returning,0,0,0,0,1,0
+1122,2025-05-13,Email,Mobile,East,New,1,1,0,0,0,1
+1123,2025-04-30,Organic,Mobile,West,New,0,0,0,0,0,0
+1124,2025-02-06,Organic,Mobile,West,New,1,1,1,2193,0,0
+1125,2025-03-13,Paid Search,Mobile,North,New,1,0,0,0,0,0
+1126,2025-05-07,Paid Search,Mobile,North,Returning,1,1,0,0,1,0
+1127,2025-04-16,Organic,Mobile,South,New,1,1,1,7666,0,0
+1128,2025-04-02,Paid Search,Mobile,South,New,1,0,0,0,0,0
+1129,2025-01-31,Organic,Desktop,North,New,1,0,0,0,0,0
+1130,2025-05-02,Paid Search,Mobile,North,New,1,0,0,0,0,0
+1131,2025-05-17,Email,Desktop,West,New,0,0,0,0,0,0
+1132,2025-02-20,Paid Search,Mobile,West,New,1,1,1,7328,0,1
+1133,2025-01-29,Organic,Mobile,North,New,0,0,0,0,0,0
+1134,2025-02-09,Paid Search,Desktop,South,New,1,1,1,1656,0,1
+1135,2025-02-10,Organic,Mobile,South,Returning,1,1,0,0,1,0
+1136,2025-01-11,Referral,Mobile,North,Returning,1,1,0,0,1,0
+1137,2025-05-31,Organic,Mobile,East,New,1,1,0,0,0,1
+1138,2025-01-01,Social Media,Tablet,East,New,1,1,0,0,0,0
+1139,2025-02-15,Referral,Mobile,West,New,1,1,1,4945,0,0
+1140,2025-04-11,Email,Mobile,West,New,1,0,0,0,0,0
+1141,2025-05-29,Social Media,Desktop,East,New,1,0,0,0,0,0
+1142,2025-03-31,Email,Mobile,East,New,1,1,0,0,0,1
+1143,2025-04-20,Referral,Mobile,South,New,1,0,0,0,0,1
+1144,2025-06-13,Social Media,Mobile,East,New,1,0,0,0,0,0
+1145,2025-02-26,Social Media,Desktop,South,New,1,1,0,0,0,0
+1146,2025-01-01,Social Media,Mobile,North,New,0,0,0,0,0,0
+1147,2025-03-04,Paid Search,Mobile,North,Returning,1,1,0,0,1,1
+1148,2025-02-24,Social Media,Mobile,South,New,1,0,0,0,0,1
+1149,2025-04-25,Paid Search,Desktop,West,New,1,1,1,4546,0,1
+1150,2025-06-17,Organic,Mobile,North,New,1,1,0,0,0,0
+1151,2025-05-23,Organic,Tablet,South,Returning,1,0,0,0,1,1
+1152,2025-05-29,Organic,Mobile,South,Returning,0,0,0,0,1,0
+1153,2025-06-24,Organic,Tablet,East,Returning,1,1,0,0,1,0
+1154,2025-02-22,Organic,Tablet,North,New,1,0,0,0,0,1
+1155,2025-05-17,Social Media,Mobile,West,New,0,0,0,0,0,0
+1156,2025-06-29,Organic,Mobile,West,Returning,1,0,0,0,1,1
+1157,2025-02-26,Email,Mobile,East,New,1,1,1,1968,0,0
+1158,2025-04-27,Organic,Mobile,East,New,1,1,0,0,0,1
+1159,2025-06-03,Organic,Desktop,North,Returning,1,0,0,0,1,0
+1160,2025-06-18,Social Media,Mobile,South,New,0,0,0,0,0,0
+1161,2025-02-04,Social Media,Mobile,West,New,1,0,0,0,0,0
+1162,2025-03-04,Organic,Mobile,North,New,1,1,1,1921,0,0
+1163,2025-01-25,Email,Tablet,South,New,1,0,0,0,0,0
+1164,2025-03-31,Email,Mobile,East,New,0,0,0,0,0,0
+1165,2025-03-16,Paid Search,Mobile,South,New,1,0,0,0,0,0
+1166,2025-02-07,Paid Search,Mobile,West,Returning,1,1,0,0,1,0
+1167,2025-05-10,Referral,Tablet,North,New,1,1,0,0,0,0
+1168,2025-05-15,Social Media,Desktop,West,Returning,0,0,0,0,1,0
+1169,2025-06-11,Paid Search,Mobile,East,New,0,0,0,0,0,1
+1170,2025-04-01,Email,Mobile,West,New,0,0,0,0,0,1
+1171,2025-01-17,Organic,Mobile,South,Returning,1,0,0,0,1,0
+1172,2025-05-08,Paid Search,Mobile,East,Returning,1,1,0,0,1,0
+1173,2025-06-20,Organic,Tablet,West,New,1,1,0,0,0,1
+1174,2025-04-18,Email,Desktop,South,Returning,1,1,1,4926,1,0
+1175,2025-06-28,Social Media,Mobile,South,Returning,1,1,0,0,1,0
+1176,2025-06-01,Social Media,Desktop,East,Returning,1,0,0,0,1,0
+1177,2025-01-25,Organic,Mobile,West,New,1,1,1,3051,0,0
+1178,2025-06-29,Organic,Desktop,South,Returning,0,0,0,0,1,0
+1179,2025-03-29,Paid Search,Desktop,West,Returning,1,1,0,0,1,0
+1180,2025-06-10,Social Media,Mobile,South,Returning,1,1,0,0,1,0
+1181,2025-06-26,Paid Search,Desktop,South,New,1,1,1,9679,0,0
+1182,2025-01-29,Organic,Mobile,West,New,1,0,0,0,0,0
+1183,2025-03-04,Email,Mobile,East,New,1,1,0,0,0,0
+1184,2025-05-30,Organic,Mobile,West,New,1,1,0,0,0,0
+1185,2025-06-03,Referral,Mobile,West,Returning,1,1,1,6886,1,0
+1186,2025-06-05,Organic,Desktop,South,New,0,0,0,0,0,1
+1187,2025-04-24,Social Media,Tablet,North,New,0,0,0,0,0,0
+1188,2025-02-18,Organic,Desktop,North,Returning,0,0,0,0,1,0
+1189,2025-03-22,Referral,Desktop,West,New,1,1,0,0,0,0
+1190,2025-03-25,Paid Search,Desktop,West,New,1,1,0,0,0,0
+1191,2025-04-15,Organic,Mobile,North,New,1,0,0,0,0,0
+1192,2025-06-26,Paid Search,Mobile,North,New,1,1,0,0,0,0
+1193,2025-05-28,Organic,Mobile,North,New,1,1,0,0,0,1
+1194,2025-04-28,Organic,Desktop,West,Returning,0,0,0,0,1,0
+1195,2025-03-27,Referral,Tablet,South,New,1,0,0,0,0,1
+1196,2025-03-04,Paid Search,Mobile,South,New,1,1,0,0,0,0
+1197,2025-04-14,Email,Desktop,East,New,1,0,0,0,0,1
+1198,2025-02-18,Social Media,Desktop,West,New,1,1,1,4090,0,1
+1199,2025-03-12,Social Media,Mobile,East,New,1,0,0,0,0,1
+1200,2025-01-01,Organic,Mobile,East,New,0,0,0,0,0,0
+1201,2025-05-21,Organic,Mobile,North,New,1,1,1,6676,0,0
+1202,2025-06-28,Email,Mobile,East,Returning,1,0,0,0,1,1
+1203,2025-05-03,Referral,Mobile,West,New,0,0,0,0,0,1
+1204,2025-03-03,Organic,Mobile,West,New,1,1,0,0,0,1
+1205,2025-02-01,Organic,Mobile,North,Returning,1,1,1,5622,1,0
+1206,2025-06-07,Paid Search,Mobile,North,New,0,0,0,0,0,1
+1207,2025-01-29,Referral,Desktop,North,New,0,0,0,0,0,0
+1208,2025-02-18,Organic,Mobile,South,New,0,0,0,0,0,0
+1209,2025-06-22,Paid Search,Desktop,West,New,1,0,0,0,0,0
+1210,2025-01-30,Email,Mobile,North,New,0,0,0,0,0,0
+1211,2025-05-24,Organic,Mobile,South,New,1,1,0,0,0,1
+1212,2025-06-17,Organic,Tablet,South,New,0,0,0,0,0,0
+1213,2025-01-19,Social Media,Mobile,North,New,1,0,0,0,0,0
+1214,2025-01-18,Referral,Mobile,South,New,1,0,0,0,0,0
+1215,2025-01-01,Organic,Desktop,South,New,1,0,0,0,0,0
+1216,2025-03-19,Paid Search,Mobile,South,Returning,0,0,0,0,1,0
+1217,2025-04-25,Paid Search,Mobile,West,Returning,1,1,1,6269,1,0
+1218,2025-06-24,Paid Search,Mobile,East,Returning,1,0,0,0,1,0
+1219,2025-04-23,Social Media,Mobile,North,New,1,0,0,0,0,1
+1220,2025-04-24,Paid Search,Mobile,West,New,1,0,0,0,0,1
+1221,2025-06-15,Paid Search,Mobile,East,New,1,1,1,3817,0,0
+1222,2025-06-28,Paid Search,Desktop,West,New,1,1,0,0,0,0
+1223,2025-03-04,Social Media,Desktop,North,New,0,0,0,0,0,0
+1224,2025-05-12,Paid Search,Desktop,North,New,1,1,1,5052,0,0
+1225,2025-05-09,Email,Desktop,North,New,1,1,0,0,0,0
+1226,2025-01-08,Organic,Desktop,North,New,1,1,0,0,0,0
+1227,2025-06-06,Email,Mobile,South,Returning,1,1,1,3561,1,0
+1228,2025-02-24,Email,Desktop,West,New,1,0,0,0,0,1
+1229,2025-04-13,Organic,Desktop,South,New,1,0,0,0,0,0
+1230,2025-05-11,Paid Search,Desktop,South,New,0,0,0,0,0,0
+1231,2025-02-01,Paid Search,Mobile,East,New,1,1,0,0,0,1
+1232,2025-01-10,Organic,Mobile,North,New,1,1,0,0,0,0
+1233,2025-04-20,Paid Search,Mobile,East,New,1,1,1,2546,0,0
+1234,2025-06-11,Organic,Desktop,East,New,0,0,0,0,0,0
+1235,2025-05-04,Organic,Mobile,West,Returning,1,0,0,0,1,1
+1236,2025-03-28,Email,Desktop,West,Returning,1,0,0,0,1,0
+1237,2025-02-24,Organic,Mobile,South,Returning,1,0,0,0,1,1
+1238,2025-02-01,Email,Mobile,East,Returning,1,1,1,1222,1,0
+1239,2025-06-27,Paid Search,Mobile,West,New,1,0,0,0,0,0
+1240,2025-05-15,Email,Mobile,West,New,1,0,0,0,0,0
+1241,2025-04-03,Social Media,Mobile,South,New,1,1,1,8775,0,0
+1242,2025-01-08,Organic,Mobile,West,New,1,0,0,0,0,1
+1243,2025-03-06,Social Media,Tablet,North,New,1,0,0,0,0,0
+1244,2025-02-26,Organic,Mobile,West,Returning,1,0,0,0,1,0
+1245,2025-03-08,Paid Search,Mobile,North,New,1,1,1,6589,0,0
+1246,2025-03-13,Referral,Desktop,East,New,1,1,1,4818,0,1
+1247,2025-02-23,Organic,Desktop,West,New,0,0,0,0,0,0
+1248,2025-03-08,Paid Search,Desktop,South,Returning,0,0,0,0,1,1
+1249,2025-02-20,Social Media,Mobile,South,New,0,0,0,0,0,0
+1250,2025-04-07,Email,Desktop,South,Returning,0,0,0,0,1,0
+1251,2025-04-02,Social Media,Desktop,West,Returning,0,0,0,0,1,0
+1252,2025-01-08,Organic,Mobile,West,Returning,1,1,0,0,1,0
+1253,2025-06-11,Social Media,Mobile,West,Returning,1,1,1,925,1,0
+1254,2025-02-04,Organic,Mobile,East,Returning,1,1,0,0,1,0
+1255,2025-04-06,Social Media,Mobile,West,New,1,1,1,4475,0,0
+1256,2025-03-29,Referral,Desktop,South,New,1,1,1,9299,0,1
+1257,2025-03-19,Social Media,Mobile,South,New,1,1,0,0,0,0
+1258,2025-02-01,Email,Tablet,West,New,1,0,0,0,0,0
+1259,2025-04-30,Organic,Mobile,South,Returning,1,0,0,0,1,0
+1260,2025-02-15,Social Media,Mobile,North,New,0,0,0,0,0,0
+1261,2025-05-24,Email,Mobile,North,Returning,0,0,0,0,1,0
+1262,2025-06-14,Organic,Mobile,North,New,1,1,1,2464,0,0
+1263,2025-05-22,Email,Desktop,West,New,0,0,0,0,0,0
+1264,2025-02-24,Organic,Desktop,South,Returning,1,1,0,0,1,0
+1265,2025-06-25,Social Media,Mobile,West,New,1,0,0,0,0,0
+1266,2025-01-07,Email,Mobile,South,New,1,0,0,0,0,0
+1267,2025-03-15,Social Media,Mobile,South,New,0,0,0,0,0,0
+1268,2025-01-07,Organic,Desktop,South,New,1,0,0,0,0,0
+1269,2025-06-10,Social Media,Mobile,West,New,1,0,0,0,0,0
+1270,2025-05-31,Paid Search,Mobile,East,New,1,1,1,8672,0,0
+1271,2025-03-26,Referral,Desktop,West,New,0,0,0,0,0,0
+1272,2025-05-27,Paid Search,Tablet,East,Returning,0,0,0,0,1,0
+1273,2025-04-22,Paid Search,Mobile,East,Returning,0,0,0,0,1,0
+1274,2025-05-05,Social Media,Mobile,East,New,0,0,0,0,0,0
+1275,2025-05-27,Paid Search,Desktop,West,New,1,1,0,0,0,0
+1276,2025-02-05,Social Media,Desktop,West,Returning,0,0,0,0,1,0
+1277,2025-01-29,Social Media,Mobile,North,New,1,0,0,0,0,0
+1278,2025-03-23,Email,Tablet,East,New,1,1,1,6087,0,0
+1279,2025-01-02,Social Media,Desktop,East,New,0,0,0,0,0,0
+1280,2025-05-09,Paid Search,Mobile,West,Returning,1,0,0,0,1,0
+1281,2025-02-16,Organic,Mobile,North,New,1,1,0,0,0,0
+1282,2025-05-28,Organic,Mobile,West,New,1,1,1,1444,0,0
+1283,2025-01-11,Organic,Desktop,West,New,1,1,0,0,0,0
+1284,2025-05-10,Organic,Mobile,North,New,1,1,1,2397,0,0
+1285,2025-04-29,Social Media,Desktop,West,New,1,1,0,0,0,0
+1286,2025-05-20,Social Media,Desktop,North,New,1,1,0,0,0,0
+1287,2025-01-20,Paid Search,Mobile,North,Returning,1,1,1,2197,1,0
+1288,2025-01-05,Email,Desktop,North,Returning,1,0,0,0,1,0
+1289,2025-02-06,Referral,Tablet,North,New,1,0,0,0,0,1
+1290,2025-06-15,Email,Mobile,West,New,1,0,0,0,0,0
+1291,2025-05-17,Social Media,Mobile,North,New,1,0,0,0,0,0
+1292,2025-02-22,Paid Search,Mobile,South,Returning,1,1,0,0,1,1
+1293,2025-06-21,Paid Search,Desktop,North,Returning,0,0,0,0,1,1
+1294,2025-04-09,Organic,Tablet,South,New,1,1,1,3107,0,1
+1295,2025-03-27,Paid Search,Mobile,North,New,1,1,1,9090,0,0
+1296,2025-04-18,Referral,Desktop,East,Returning,1,1,0,0,1,1
+1297,2025-01-24,Email,Mobile,North,New,1,0,0,0,0,0
+1298,2025-03-22,Organic,Mobile,West,New,1,0,0,0,0,0
+1299,2025-06-07,Paid Search,Mobile,West,New,1,0,0,0,0,0
+1300,2025-04-30,Email,Mobile,North,New,0,0,0,0,0,0
+1301,2025-02-28,Organic,Mobile,West,New,1,0,0,0,0,0
+1302,2025-05-08,Paid Search,Mobile,North,Returning,1,1,0,0,1,0
+1303,2025-04-24,Email,Mobile,North,New,1,1,0,0,0,0
+1304,2025-04-25,Paid Search,Tablet,North,New,1,0,0,0,0,0
+1305,2025-01-14,Organic,Mobile,South,New,1,0,0,0,0,1
+1306,2025-01-09,Paid Search,Mobile,East,New,1,1,0,0,0,0
+1307,2025-02-09,Email,Mobile,West,New,1,0,0,0,0,0
+1308,2025-01-25,Social Media,Desktop,South,New,1,1,1,7601,0,1
+1309,2025-04-13,Organic,Mobile,West,Returning,0,0,0,0,1,0
+1310,2025-01-22,Paid Search,Mobile,North,New,1,1,0,0,0,0
+1311,2025-01-04,Paid Search,Tablet,West,New,1,1,0,0,0,1
+1312,2025-06-03,Social Media,Mobile,North,New,1,1,0,0,0,1
+1313,2025-01-29,Email,Mobile,North,New,0,0,0,0,0,1
+1314,2025-04-19,Organic,Desktop,North,Returning,1,0,0,0,1,0
+1315,2025-04-08,Email,Mobile,North,New,1,1,0,0,0,0
+1316,2025-02-06,Organic,Mobile,East,Returning,1,0,0,0,1,0
+1317,2025-03-16,Paid Search,Mobile,West,New,1,0,0,0,0,0
+1318,2025-03-11,Organic,Mobile,North,Returning,1,0,0,0,1,0
+1319,2025-05-26,Paid Search,Mobile,West,New,1,1,1,7665,0,0
+1320,2025-05-08,Paid Search,Mobile,East,New,1,0,0,0,0,1
+1321,2025-03-26,Paid Search,Mobile,West,New,1,0,0,0,0,0
+1322,2025-02-11,Organic,Mobile,North,New,1,1,0,0,0,0
+1323,2025-04-10,Social Media,Desktop,South,Returning,1,1,1,5171,1,0
+1324,2025-02-10,Organic,Mobile,West,Returning,0,0,0,0,1,0
+1325,2025-06-15,Email,Mobile,East,New,0,0,0,0,0,1
+1326,2025-02-03,Referral,Desktop,South,New,1,1,0,0,0,0
+1327,2025-01-17,Paid Search,Desktop,North,New,1,1,1,1604,0,0
+1328,2025-06-14,Paid Search,Mobile,South,Returning,1,0,0,0,1,0
+1329,2025-06-02,Paid Search,Tablet,East,New,1,1,0,0,0,0
+1330,2025-05-02,Organic,Mobile,West,New,1,1,1,2916,0,0
+1331,2025-03-17,Paid Search,Mobile,North,New,1,0,0,0,0,1
+1332,2025-03-28,Email,Desktop,East,Returning,1,1,0,0,1,0
+1333,2025-04-27,Social Media,Mobile,East,New,1,0,0,0,0,0
+1334,2025-04-16,Organic,Mobile,East,Returning,1,1,0,0,1,0
+1335,2025-03-27,Email,Mobile,East,Returning,1,0,0,0,1,1
+1336,2025-01-27,Paid Search,Mobile,West,New,1,1,1,8760,0,0
+1337,2025-02-26,Email,Mobile,South,New,1,1,0,0,0,0
+1338,2025-01-31,Social Media,Tablet,West,Returning,0,0,0,0,1,0
+1339,2025-05-14,Social Media,Mobile,North,New,0,0,0,0,0,1
+1340,2025-06-17,Organic,Desktop,North,Returning,1,0,0,0,1,1
+1341,2025-04-08,Organic,Mobile,South,New,1,0,0,0,0,1
+1342,2025-01-12,Referral,Desktop,North,New,1,0,0,0,0,1
+1343,2025-02-22,Organic,Desktop,North,Returning,1,1,1,8623,1,0
+1344,2025-05-18,Referral,Desktop,North,New,1,1,1,4285,0,0
+1345,2025-06-22,Paid Search,Mobile,West,New,1,0,0,0,0,1
+1346,2025-05-25,Organic,Mobile,North,Returning,1,0,0,0,1,1
+1347,2025-06-03,Organic,Mobile,West,New,1,1,0,0,0,0
+1348,2025-05-02,Organic,Desktop,North,New,0,0,0,0,0,0
+1349,2025-02-15,Referral,Desktop,West,New,1,1,0,0,0,1
+1350,2025-03-05,Paid Search,Mobile,West,Returning,1,0,0,0,1,0
+1351,2025-05-10,Paid Search,Mobile,North,Returning,1,1,1,6191,1,1
+1352,2025-02-23,Paid Search,Mobile,West,New,1,0,0,0,0,0
+1353,2025-04-17,Organic,Desktop,East,Returning,1,1,0,0,1,0
+1354,2025-02-20,Paid Search,Mobile,West,Returning,1,1,1,7147,1,0
+1355,2025-06-30,Organic,Desktop,East,New,1,0,0,0,0,0
+1356,2025-02-05,Email,Tablet,East,New,1,1,0,0,0,0
+1357,2025-04-25,Paid Search,Mobile,West,New,1,1,0,0,0,0
+1358,2025-01-26,Paid Search,Mobile,South,New,0,0,0,0,0,0
+1359,2025-01-29,Paid Search,Mobile,North,Returning,1,1,0,0,1,1
+1360,2025-05-29,Paid Search,Mobile,West,Returning,0,0,0,0,1,0
+1361,2025-01-11,Referral,Mobile,South,New,1,1,0,0,0,0
+1362,2025-02-09,Paid Search,Mobile,South,New,0,0,0,0,0,0
+1363,2025-01-11,Organic,Desktop,North,New,1,1,0,0,0,0
+1364,2025-06-13,Social Media,Mobile,South,New,1,1,1,1723,0,0
+1365,2025-04-23,Organic,Mobile,West,New,1,0,0,0,0,0
+1366,2025-02-08,Organic,Tablet,South,New,0,0,0,0,0,0
+1367,2025-02-23,Referral,Desktop,South,New,1,1,0,0,0,0
+1368,2025-04-08,Email,Mobile,East,New,1,0,0,0,0,0
+1369,2025-02-24,Referral,Mobile,West,Returning,1,1,1,5287,1,0
+1370,2025-04-21,Paid Search,Mobile,South,New,0,0,0,0,0,0
+1371,2025-06-01,Paid Search,Desktop,South,New,1,0,0,0,0,1
+1372,2025-05-30,Organic,Desktop,West,New,0,0,0,0,0,1
+1373,2025-03-10,Organic,Desktop,East,New,1,1,1,3799,0,1
+1374,2025-02-25,Email,Mobile,North,New,1,0,0,0,0,1
+1375,2025-02-02,Paid Search,Desktop,North,New,1,0,0,0,0,0
+1376,2025-02-05,Email,Mobile,South,Returning,1,0,0,0,1,0
+1377,2025-05-28,Social Media,Mobile,North,New,1,0,0,0,0,0
+1378,2025-03-22,Organic,Mobile,South,Returning,1,1,1,2907,1,1
+1379,2025-04-19,Paid Search,Mobile,West,Returning,1,1,0,0,1,1
+1380,2025-06-03,Social Media,Mobile,North,Returning,1,1,1,5527,1,1
+1381,2025-03-14,Organic,Desktop,West,New,1,1,0,0,0,0
+1382,2025-02-09,Email,Tablet,South,Returning,1,1,0,0,1,1
+1383,2025-01-17,Paid Search,Mobile,West,New,1,0,0,0,0,0
+1384,2025-05-09,Organic,Mobile,West,New,1,1,0,0,0,0
+1385,2025-03-02,Social Media,Mobile,North,Returning,1,0,0,0,1,1
+1386,2025-06-20,Referral,Mobile,East,New,1,0,0,0,0,0
+1387,2025-04-14,Organic,Mobile,North,New,0,0,0,0,0,1
+1388,2025-02-11,Email,Tablet,West,New,1,1,0,0,0,0
+1389,2025-01-25,Organic,Mobile,West,New,1,1,0,0,0,1
+1390,2025-02-08,Email,Mobile,South,New,1,1,0,0,0,0
+1391,2025-02-04,Social Media,Mobile,South,New,1,1,0,0,0,1
+1392,2025-05-11,Paid Search,Desktop,South,Returning,1,1,0,0,1,1
+1393,2025-04-18,Paid Search,Desktop,West,Returning,1,1,0,0,1,1
+1394,2025-06-21,Email,Tablet,South,Returning,1,0,0,0,1,0
+1395,2025-06-28,Paid Search,Desktop,South,New,1,0,0,0,0,1
+1396,2025-04-12,Social Media,Mobile,South,New,0,0,0,0,0,0
+1397,2025-04-08,Organic,Mobile,North,Returning,1,1,0,0,1,0
+1398,2025-01-12,Email,Desktop,West,Returning,1,0,0,0,1,0
+1399,2025-01-19,Social Media,Mobile,North,New,1,0,0,0,0,1
+1400,2025-04-11,Referral,Mobile,East,New,0,0,0,0,0,0
+1401,2025-02-13,Organic,Mobile,North,New,0,0,0,0,0,1
+1402,2025-02-18,Social Media,Mobile,North,New,0,0,0,0,0,0
+1403,2025-01-17,Social Media,Mobile,East,New,0,0,0,0,0,0
+1404,2025-03-15,Paid Search,Mobile,West,Returning,1,1,0,0,1,1
+1405,2025-02-26,Paid Search,Desktop,West,New,1,1,0,0,0,0
+1406,2025-02-24,Organic,Mobile,North,New,1,1,0,0,0,1
+1407,2025-02-16,Social Media,Mobile,North,New,1,0,0,0,0,0
+1408,2025-01-12,Paid Search,Mobile,West,New,1,0,0,0,0,0
+1409,2025-03-03,Organic,Mobile,South,New,0,0,0,0,0,0
+1410,2025-03-21,Social Media,Mobile,North,New,1,0,0,0,0,0
+1411,2025-03-24,Paid Search,Mobile,West,New,1,1,0,0,0,0
+1412,2025-01-08,Organic,Mobile,West,Returning,0,0,0,0,1,0
+1413,2025-05-29,Referral,Mobile,West,New,1,0,0,0,0,0
+1414,2025-03-22,Referral,Mobile,West,New,1,1,0,0,0,0
+1415,2025-04-28,Paid Search,Mobile,West,New,0,0,0,0,0,0
+1416,2025-01-25,Organic,Mobile,North,Returning,0,0,0,0,1,1
+1417,2025-03-30,Email,Mobile,North,New,1,1,0,0,0,0
+1418,2025-01-12,Paid Search,Mobile,East,Returning,0,0,0,0,1,1
+1419,2025-05-23,Paid Search,Desktop,East,New,1,0,0,0,0,0
+1420,2025-02-28,Paid Search,Mobile,South,Returning,0,0,0,0,1,0
+1421,2025-06-03,Paid Search,Mobile,South,Returning,1,1,1,5370,1,0
+1422,2025-04-19,Social Media,Mobile,South,New,1,1,1,8532,0,0
+1423,2025-01-26,Paid Search,Desktop,East,New,1,1,1,3520,0,0
+1424,2025-02-16,Social Media,Desktop,North,New,1,1,0,0,0,0
+1425,2025-02-01,Referral,Desktop,South,Returning,1,1,0,0,1,1
+1426,2025-01-10,Paid Search,Desktop,East,New,1,0,0,0,0,1
+1427,2025-01-16,Social Media,Mobile,West,New,1,1,0,0,0,0
+1428,2025-05-25,Email,Desktop,North,Returning,0,0,0,0,1,1
+1429,2025-05-31,Paid Search,Mobile,East,Returning,0,0,0,0,1,0
+1430,2025-01-26,Paid Search,Mobile,West,New,1,1,1,2733,0,0
+1431,2025-03-27,Social Media,Mobile,South,New,1,1,1,8617,0,0
+1432,2025-05-15,Social Media,Mobile,North,New,1,0,0,0,0,1
+1433,2025-01-14,Email,Tablet,South,New,1,1,0,0,0,1
+1434,2025-03-20,Paid Search,Mobile,South,New,1,1,1,9998,0,1
+1435,2025-04-27,Referral,Desktop,West,New,1,1,0,0,0,0
+1436,2025-01-07,Organic,Mobile,North,New,1,0,0,0,0,0
+1437,2025-05-17,Organic,Mobile,East,Returning,0,0,0,0,1,0
+1438,2025-04-25,Social Media,Mobile,North,New,1,0,0,0,0,0
+1439,2025-06-25,Organic,Mobile,South,New,1,0,0,0,0,0
+1440,2025-03-13,Organic,Desktop,East,New,1,1,1,8609,0,0
+1441,2025-02-28,Paid Search,Mobile,South,New,1,1,0,0,0,0
+1442,2025-03-23,Organic,Mobile,South,New,1,1,1,7207,0,0
+1443,2025-04-26,Organic,Desktop,North,New,1,1,0,0,0,0
+1444,2025-06-16,Referral,Mobile,South,Returning,0,0,0,0,1,0
+1445,2025-05-26,Organic,Tablet,East,New,0,0,0,0,0,0
+1446,2025-04-13,Social Media,Mobile,South,New,1,0,0,0,0,0
+1447,2025-01-17,Email,Mobile,West,Returning,1,1,1,9738,1,0
+1448,2025-01-14,Referral,Mobile,East,New,1,0,0,0,0,0
+1449,2025-06-08,Organic,Mobile,South,Returning,1,1,1,7300,1,0
+1450,2025-06-01,Email,Mobile,North,New,0,0,0,0,0,0
+1451,2025-04-18,Paid Search,Desktop,South,Returning,1,1,1,3271,1,0
+1452,2025-02-14,Social Media,Desktop,West,New,1,1,0,0,0,1
+1453,2025-04-08,Social Media,Desktop,South,Returning,1,1,1,3100,1,0
+1454,2025-05-11,Email,Mobile,West,Returning,0,0,0,0,1,0
+1455,2025-02-06,Paid Search,Mobile,South,New,1,0,0,0,0,0
+1456,2025-06-20,Social Media,Mobile,West,New,1,1,0,0,0,1
+1457,2025-06-17,Paid Search,Mobile,North,Returning,1,0,0,0,1,0
+1458,2025-04-18,Email,Desktop,West,New,1,1,0,0,0,0
+1459,2025-02-08,Referral,Mobile,South,New,1,0,0,0,0,0
+1460,2025-01-15,Organic,Mobile,South,New,1,0,0,0,0,0
+1461,2025-04-30,Referral,Mobile,South,Returning,0,0,0,0,1,0
+1462,2025-01-04,Organic,Tablet,South,New,1,1,0,0,0,1
+1463,2025-04-03,Organic,Mobile,West,New,1,1,1,4038,0,1
+1464,2025-06-02,Organic,Mobile,North,New,1,1,0,0,0,0
+1465,2025-05-21,Paid Search,Mobile,North,Returning,0,0,0,0,1,0
+1466,2025-06-10,Social Media,Mobile,East,Returning,0,0,0,0,1,0
+1467,2025-01-16,Organic,Mobile,South,Returning,1,0,0,0,1,0
+1468,2025-06-19,Organic,Mobile,East,New,1,1,0,0,0,0
+1469,2025-04-18,Referral,Desktop,East,Returning,1,1,1,705,1,0
+1470,2025-05-06,Email,Mobile,South,New,1,1,0,0,0,0
+1471,2025-02-24,Email,Desktop,West,New,1,1,0,0,0,0
+1472,2025-06-19,Email,Tablet,South,New,0,0,0,0,0,0
+1473,2025-02-03,Social Media,Desktop,North,New,1,0,0,0,0,1
+1474,2025-06-07,Organic,Mobile,West,Returning,1,1,0,0,1,0
+1475,2025-01-13,Paid Search,Mobile,East,New,1,1,0,0,0,1
+1476,2025-05-21,Social Media,Desktop,South,New,1,0,0,0,0,0
+1477,2025-01-18,Organic,Desktop,East,Returning,1,0,0,0,1,0
+1478,2025-06-09,Social Media,Mobile,North,Returning,1,0,0,0,1,0
+1479,2025-04-06,Organic,Desktop,South,New,0,0,0,0,0,0
+1480,2025-05-03,Paid Search,Mobile,West,New,1,1,0,0,0,0
+1481,2025-02-08,Paid Search,Mobile,North,Returning,1,1,1,9588,1,1
+1482,2025-02-15,Social Media,Mobile,South,New,1,1,1,8850,0,1
+1483,2025-01-29,Social Media,Mobile,West,New,0,0,0,0,0,0
+1484,2025-03-03,Social Media,Mobile,West,New,0,0,0,0,0,0
+1485,2025-01-16,Organic,Desktop,South,New,1,0,0,0,0,0
+1486,2025-05-01,Organic,Mobile,East,Returning,1,0,0,0,1,0
+1487,2025-01-10,Email,Mobile,East,New,1,0,0,0,0,0
+1488,2025-06-07,Social Media,Mobile,West,New,1,1,0,0,0,0
+1489,2025-06-02,Organic,Mobile,West,New,1,1,0,0,0,0
+1490,2025-04-13,Email,Mobile,North,New,1,1,0,0,0,0
+1491,2025-03-25,Organic,Desktop,South,New,1,1,0,0,0,0
+1492,2025-05-13,Paid Search,Desktop,South,New,1,0,0,0,0,0
+1493,2025-03-06,Organic,Desktop,West,New,1,1,0,0,0,0
+1494,2025-06-26,Social Media,Desktop,East,New,1,1,0,0,0,1
+1495,2025-01-03,Social Media,Mobile,East,New,1,1,0,0,0,0
+1496,2025-06-22,Organic,Mobile,West,New,0,0,0,0,0,1
+1497,2025-05-22,Email,Mobile,North,New,1,1,0,0,0,1
+1498,2025-04-30,Paid Search,Mobile,North,New,1,1,0,0,0,1
+1499,2025-06-07,Organic,Tablet,South,Returning,1,1,1,7976,1,1
+1500,2025-03-09,Organic,Mobile,South,New,1,1,1,2061,0,0
